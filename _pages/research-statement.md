@@ -31,6 +31,22 @@ I use a variety of approaches to study a range of environmental health problems.
 
 I grew up in southern Indiana, spending a lot of time exploring in the woods and playing baseball and soccer. Now, I am an avid disc golf player and a fan of games and puzzles in general. I have two cats who comprise the majority of my photo roll. I am passionate about data visualization. In southern California, I am enjoying the beautiful sunshine and trying to get into biking.
 
+## Fieldwork
+
+Photos from research travel over the years &mdash; India, Ecuador, Peru, Ghana, Honduras, and beyond.
+
+<div class="br-photo-grid">
+<img src="{{ "/images/fieldwork/field-1.jpg" | relative_url }}" alt="Clean Cooking Forum, New Delhi">
+<img src="{{ "/images/fieldwork/field-2.jpg" | relative_url }}" alt="Fieldwork">
+<img src="{{ "/images/fieldwork/field-3.jpg" | relative_url }}" alt="Agricultural fieldwork">
+<img src="{{ "/images/fieldwork/field-4.jpg" | relative_url }}" alt="Household interview">
+<img src="{{ "/images/fieldwork/field-5.jpg" | relative_url }}" alt="Household kitchen">
+<img src="{{ "/images/fieldwork/field-6.jpg" | relative_url }}" alt="Rural landscape">
+<img src="{{ "/images/fieldwork/field-7.jpg" | relative_url }}" alt="Conference presentation">
+<img src="{{ "/images/fieldwork/field-8.jpg" | relative_url }}" alt="Fieldwork discussion">
+<img src="{{ "/images/fieldwork/field-9.jpg" | relative_url }}" alt="Rural landscape">
+</div>
+
 ## Contact
 
 - Email: [cagould@health.ucsd.edu](mailto:cagould@health.ucsd.edu) / [gould.cf@gmail.com](mailto:gould.cf@gmail.com)

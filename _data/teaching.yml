@@ -2,17 +2,25 @@
   courses:
     - title: "Introduction to Environmental and Occupational Health (PH 130)"
       level: "Undergraduate"
+      description: "A survey of how environmental and occupational exposures &mdash; air pollution, chemical hazards, climate change &mdash; shape human health, and how public health policy responds."
+
     - title: "Data Visualization for Public Health: Theory and Application Using Open Source Software (FMPH 491)"
       level: "Graduate"
+      description: "Principles of effective data visualization paired with hands-on practice in open-source tools, applied to real public health datasets."
+
     - title: "Environmental and Occupational Health (PH 404)"
       level: "Graduate"
+      description: "Graduate-level treatment of environmental exposures and occupational hazards, their measurement, and their health consequences."
       callout: "Co-Instructor"
 
 - institution: "Columbia University Mailman School of Public Health"
   courses:
     - title: "Capstone: Critical Thinking and Analysis in Environmental Health Sciences"
       level: "Graduate"
-      callout: "Lead Teaching Fellow (2019-2020)"
+      description: "A capstone course guiding MPH students through the design, analysis, and communication of an original environmental health research project."
+      callout: "Lead Teaching Fellow, 2019&ndash;2020"
+
     - title: "Public Health GIS"
       level: "Graduate"
-      callout: "Teaching Fellow (2017)"
+      description: "Introduction to geographic information systems and spatial analysis methods for public health research."
+      callout: "Teaching Fellow, 2017"

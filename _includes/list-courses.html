@@ -12,8 +12,11 @@
   </div>
   <div>
     <h3 class="br-row-title">{{ course.title }}</h3>
+    {% if course.description %}
+      <p class="br-row-subtitle">{{ course.description }}</p>
+    {% endif %}
     {% if course.callout %}
-      <p class="br-row-subtitle">{{ course.callout | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <p class="br-row-award">{{ course.callout | markdownify | remove: "<p>" | remove: "</p>" }}</p>
     {% endif %}
   </div>
   <div class="br-tags">

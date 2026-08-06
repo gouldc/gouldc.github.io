@@ -720,6 +720,27 @@ a:hover {
   font-weight: normal;
 }
 
+.br-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+  margin: 16px 0 32px;
+}
+
+.br-photo-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--ink);
+}
+
+@media (max-width: 600px) {
+  .br-photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .br-section-label {
   padding: 32px var(--space-4) 14px;
   border-bottom: 1px solid var(--ink);
