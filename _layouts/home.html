@@ -21,12 +21,10 @@ layout: default
 
   <section class="br-index" aria-label="Site index">
     <div class="br-index__header">
-      <span class="br-label">§ Index</span>
-      <span class="br-label">{{ site.data.home.directory.size | prepend: "0" | slice: -2, 2 }} sections</span>
+      <span class="br-label">§ Site sections</span>
     </div>
     {% for item in site.data.home.directory %}
       <a class="br-index__row" href="{{ item.url | relative_url }}">
-        <span class="br-index__num">{{ forloop.index | prepend: "0" | slice: -2, 2 }}</span>
         <span class="br-index__title">{{ item.title }}</span>
         <span class="br-index__desc">{{ item.description }}</span>
         <span class="br-index__arrow">↗</span>

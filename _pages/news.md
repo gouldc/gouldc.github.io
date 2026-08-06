@@ -2,10 +2,7 @@
 title: "News"
 permalink: /news/
 author_profile: true
-file_no: "004"
-file_label: "News"
 lede: "Media coverage, interviews, and recent highlights."
-record_count: "Selected coverage"
 ---
 
 <div class="br-cv-section">

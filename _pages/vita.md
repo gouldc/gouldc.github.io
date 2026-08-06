@@ -2,12 +2,6 @@
 title: "Curriculum Vitae"
 permalink: /vita/
 author_profile: true
-display_title: "CV"
-file_no: "002"
-file_label: "CV"
-cta_url: "/files/gouldcv.pdf"
-cta_label: "&#8230; Download PDF"
-record_count: "CV current APR 2026"
 ---
 
 <div class="br-cv-section">

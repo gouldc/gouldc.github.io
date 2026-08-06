@@ -681,6 +681,45 @@ a:hover {
   color: var(--paper);
 }
 
+.br-pub-content {
+  min-width: 0;
+}
+
+.br-expandable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.br-expand-icon {
+  display: inline-block;
+  margin-right: 6px;
+  transition: transform 0.2s ease;
+}
+
+.br-publication-row.is-open .br-expand-icon {
+  transform: rotate(90deg);
+}
+
+.br-abstract {
+  display: none;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--paper-2);
+  color: var(--mute);
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.br-publication-row.is-open .br-abstract {
+  display: block;
+}
+
+.br-row-note {
+  color: var(--mute);
+  font-size: 14px;
+  font-weight: normal;
+}
+
 .br-section-label {
   padding: 32px var(--space-4) 14px;
   border-bottom: 1px solid var(--ink);

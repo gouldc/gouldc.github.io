@@ -3,8 +3,6 @@ permalink: /
 title: "About"
 layout: home
 author_profile: false
-file_no: "000"
-file_label: "Home"
 redirect_from:
   - /me/
   - /about.html

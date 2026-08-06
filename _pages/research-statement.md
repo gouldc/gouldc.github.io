@@ -2,8 +2,6 @@
 title: "About"
 permalink: /about/
 author_profile: true
-file_no: "005"
-file_label: "About"
 lede: "Background, research interests, and contact information."
 ---
 

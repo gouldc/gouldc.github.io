@@ -23,7 +23,7 @@ layout: default
       {% endif %}
       <header class="br-post-hero">
         <div class="br-post-kicker">
-          <span class="br-label">File {{ page.file_no | default: "023" }} · {{ kicker_label }}</span>
+          <span class="br-label">{{ kicker_label }}</span>
           <span class="br-label">
             <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
             {% if page.read_time %} · {% include read-time.html %}{% endif %}
@@ -44,7 +44,7 @@ layout: default
     {% else %}
       <header class="br-page-header">
         <div>
-          <span class="br-label">File {{ page.file_no | default: "999" }} · {{ page.file_label | default: page.title }}</span>
+          <span class="br-label">{{ page.file_label | default: page.title }}</span>
           {% if page.title %}<h1 class="br-page-title" itemprop="headline">{{ page.display_title | default: page.title }}</h1>{% endif %}
           {% if page.lede %}<p class="br-page-header__lede">{{ page.lede }}</p>{% endif %}
         </div>
