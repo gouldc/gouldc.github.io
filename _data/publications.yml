@@ -1,308 +1,432 @@
 published:
-  - title: "Health Insurance as Climate Adaptation"
+  - title: "Encoding justice with data: Environmental justice screening tools and the limits of quantification"
+    authors: "Daouda, M., Gould, C.F."
+    year: 2026
+    venue: "Current Environmental Health Reports 13, 24"
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1007/s40572-026-00543-9"
+
+  - title: "Health Insurance as Climate Adaptation: A Framework"
     authors: "Gould, C.F., Tsou, A-C., Puliady, S., McMenamin, S.B."
     year: 2026
-    venue: "Health Affairs"
-    note: "Accepted"
-    links: []
+    venue: "Health Affairs 45(5), 471-479"
+    links:
+      - label: "Link"
+        url: "https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2025.01670"
 
   - title: "Change in Acetylcholinesterase Activity from Childhood to Young Adulthood"
     authors: "Suarez-Torres, J.R.&dagger;, Gould, C.F.&dagger;, Vasishtha, D., Bradman, A., Suarez-Torres, J., Lopez-Paredes, D., Martinez, D., Moore, R."
     year: 2026
     venue: "Journal of Exposure Science and Environmental Epidemiology"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41370-026-00866-7"
 
   - title: "Priorities and opportunities for clean energy transitions in low- and middle-income countries"
     authors: "Gould, C.F.&dagger;, Gill-Wiehl, A.&dagger;, Pillarisetti, A., Kwong, L.H., Kammen, D., Clasen, T."
     year: 2026
     venue: "Lancet Global Health 14(4), E640-E652"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00527-3/fulltext"
 
   - title: "Beyond access: Clean energy use in low- and middle-income countries"
     authors: "Gill-Wiehl, A.&dagger;, Gould, C.F.&dagger;, Jeuland, M., Pillarisetti, A., Pachauri, S., Shirley, R., Troncoso, K., Jack, D.W., Leach, M., Batchelor, S., Kwong, L.H., Kammen, D."
     year: 2026
     venue: "Lancet Global Health 14(4), E598-611"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00532-7/fulltext"
 
   - title: "Household energy use and health in low- and middle-income countries"
     authors: "Pillarisetti, A., Daouda, M., Gould, C.F., Gill-Wiehl, A., Clasen, T., Kammen, D., Amegah, A.K., Balakrishnan, K."
     year: 2026
     venue: "Lancet Global Health 14(4), E612-E625"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(26)00002-1/fulltext"
 
   - title: "Intensifying risk of mass human heat mortality if historical weather patterns recur"
     authors: "Callahan, C., Trok, J., Wilson, A.J., Gould, C.F., Heft-Neal, S., Diffenbaugh, N.S., Burke, M."
     year: 2026
     venue: "Nature Climate Change 16, 26-32"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41558-025-02480-1"
 
   - title: "Quantifying the contributions of climate change and adaptation to mortality from unprecedented extreme heat events"
     authors: "Callahan, C., Trok, J., Wilson, A.J., Gould, C.F., Heft-Neal, S., Burke, M., Diffenbaugh, N.S."
     year: 2025
     venue: "Proceedings of the National Academy of Sciences 122(51), e2503577122"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.pnas.org/doi/10.1073/pnas.2503577122"
 
   - title: "Wildfire smoke exposure and mortality burden in the US under future climate change"
     authors: "Qiu, M., Li, J., Gould, C.F., Jing, R., Kelp, M., Childs, M.L., Wen, J., Xie, Y., Lin, M., Kiang, M.V., Heft-Neal, S., Diffenbaugh, N., Burke, M."
     year: 2025
     venue: "Nature 647, 935-943"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41586-025-09611-w"
+      - label: "NBER Working Paper 32307"
+        url: "https://www.nber.org/papers/w32307"
 
   - title: "Temperature extremes impact mortality and morbidity differently"
     authors: "Gould, C.F., Heft-Neal, S., Heaney, A.K., Bendavid, E., Callahan, C., Kiang, M.V., Graff Zivin, J., Burke, M."
     year: 2025
     venue: "Science Advances 11, 31"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.science.org/doi/10.1126/sciadv.adr3070"
 
   - title: "Associations of PFASs and Pesticides with Lung Function Changes from Adolescence to Young Adulthood in the ESPINA study"
     authors: "Gould, C.F.&dagger;, Kornher, K.&dagger;, Meeko Manzano, J., Baines, K., Kayser, G., Tu, X., Suarez-Torres, J., Martinez, D., Suarez-Lopez, J.R."
     year: 2025
     venue: "International Journal of Hygiene and Environmental Health 265, 114526"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1016/j.ijheh.2025.114526"
 
   - title: "The influence of wildfire smoke on ambient chemical species concentrations in the contiguous US"
     authors: "Krasovich-Southworth, E., Qiu, M., Gould, C.F., Kawano, A., Wen, J., Heft-Neal, S., Voss, K.K., Lopez, A., Fendorf, S., Burney, J., Burke, M."
     year: 2025
     venue: "Environmental Science & Technology 59, 6"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://pubs.acs.org/doi/full/10.1021/acs.est.4c09011"
 
   - title: "Evaluating chemical transport and machine learning models for wildfire smoke PM2.5: Implications for assessment of health impacts"
     authors: "Qiu, M., Kelp, M., Heft-Neal, S., Jin, X., Gould, C.F., Tong, D.Q., Burke, M."
     year: 2024
     venue: "Environmental Science & Technology 58, 52"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://pubs.acs.org/doi/abs/10.1021/acs.est.4c05922"
 
   - title: "In praise of cooking gas subsidies: transitional fuels to advance health and equity"
     authors: "Gould, C.F., Bailis, R., Balakrishnan, K., Burke, M., Espinoza, S., Mehta, S., Suarez-Lopez, J., Pillarisetti, A."
     year: 2024
     venue: "Environmental Research Letters 19, 081002"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://iopscience.iop.org/article/10.1088/1748-9326/ad5d06"
 
   - title: "Prenatal household air pollution exposure and childhood blood pressure in rural Ghana"
     authors: "Daouda, M., Kaali, S., Spring, E., Mujtaba, M., Jack, D.W., Dwommoh Prah, R.K., Colicino, E., Tawiah, T., Gennings, C., Osei, M., Janevic, T., Chillrud, S.N., Agyei, O., Quinn, A., Gould, C.F., Lee, A.G., Asante, K.P."
     year: 2024
     venue: "Environmental Health Perspectives 132, 3"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://ehp.niehs.nih.gov/doi/10.1289/EHP13225"
 
   - title: "Exposure to Nitrogen Dioxide and Fine Particulate Matter When Cooking with Electricity Compared to Gas, a Randomized Crossover Study in Quito, Ecuador"
     authors: "Gould, C.F.&dagger;, Davila, L.&dagger;, Bejarano, M.L., Burke, M., Jack, D.W., Schlesinger, S., Mora, J., Valarezo, A."
     year: 2024
     venue: "Environmental Health Perspectives 132, 1"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://ehp.niehs.nih.gov/doi/full/10.1289/EHP13134"
 
   - title: "Health effects of wildfire smoke exposure"
     authors: "Gould, C.F., Heft-Neal, S., Prunicki, M., Aguilera-Mendoza, J.A., Burke, M.&dagger;, Nadeau, K.&dagger;"
     year: 2024
     venue: "Annual Review of Medicine 45"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.annualreviews.org/doi/abs/10.1146/annurev-med-052422-020909"
 
   - title: "Wildfire influence on recent US pollution trends"
     authors: "Burke, M.&dagger;, Childs, M.&dagger;, de la Cuesta, B., Qiu, M., Li, J., Gould, C.F., Heft-Neal, S., Wara, M."
     year: 2023
     venue: "Nature 622, 761-766"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://rdcu.be/dmPN1"
+      - label: "NBER Working Paper 30882"
+        url: "https://www.nber.org/papers/w30882"
 
   - title: "Emergency department visits respond nonlinearly to wildfire smoke"
     authors: "Heft-Neal, S., Gould, C.F., Childs, M., Kiang, M., Nadeau, K., Duggan, M., Bendavid, E., Burke, M."
     year: 2023
     venue: "Proceedings of the National Academy of Sciences 120(39), e230240912"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.pnas.org/doi/10.1073/pnas.2302409120"
+      - label: "NBER Working Paper 30969"
+        url: "https://www.nber.org/papers/w30969"
 
   - title: "Climate and health benefits of a transition from gas to electric cooking"
     authors: "Gould, C.F., Bejarano, M.L., De la Cuesta, B., Jack, D.W., Schlesinger, S., Valarezo, A., Burke, M."
     year: 2023
     venue: "Proceedings of the National Academy of Sciences 120(34), e2301061120"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1073/pnas.2301061120"
 
   - title: "Maintaining household clean cooking fuel use during the COVID-19 pandemic in Ecuador"
     authors: "Valarezo, A., Davila, L., Bejarano, M.L., Nolivo, I., Molina, E., Schlesinger, S.B., Gould, C.F., Jack, D.W."
     year: 2023
     venue: "Energy for Sustainable Development 74, 349-360"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0973082623000704"
 
   - title: "Widespread clean cooking fuel scale-up and under-5 lower respiratory infection mortality: an ecological analysis in Ecuador, 1990-2019"
     authors: "Gould, C.F., Bejarano, M.L., Kioumourtzoglou, M.-A., Lee, A.G., Pillarisetti, A., Schlesinger, S., Ter&aacute;n, E., Valarezo, A., Jack, D.W."
     year: 2023
     venue: "Environmental Health Perspectives 131, 3"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://ehp.niehs.nih.gov/doi/10.1289/EHP11016"
 
   - title: "Using high frequency household surveys to describe energy use in rural North India during the COVID-19 pandemic"
     authors: "Gould, C.F.&dagger;, Pillarisetti, A.&dagger;, Thompson, L., Saluja, S., Nandan, V., Urpelainen, J."
     year: 2023
     venue: "Nature Energy 8, 169-178"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41560-022-01187-3"
 
   - title: "Using time-resolved monitor wearing data to study the effect of clean cooking interventions on personal air pollution exposures"
     authors: "Gould, C.F., Ae-Ngibise, K.A., Yang, Q., Owusu-Agyei, S., Burkart, K., Boama-Kaali, E., Kinney, P., Mujtaba, M., Quinn, A., Manu, G., Jack, D.W., Chillrud, S.N., Asante, K.P."
     year: 2022
     venue: "Journal of Exposure Science and Environmental Epidemiology 33, 386-395"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41370-022-00483-0"
 
   - title: "Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US"
     authors: "Childs, M., Li, J., Wen, J., Heft-Neal, S., Driscoll, A., Wang, S., Gould, C.F., Qiu, M., Burney, J., Burke, M."
     year: 2022
     venue: "Environmental Science & Technology 56(19), 13607-13621"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1021/acs.est.2c02934"
 
   - title: "Variability in the household use of cooking fuels: the importance of dishes cooked, non-cooking end uses, and seasonality"
     authors: "Gould, C.F., Jha, S., Patnaik, S., Agrawal, S., Zhang, A.T., Saluja, S., Nandan, V., Mani, S., Urpelainen, J."
     year: 2022
     venue: "World Development 159, 106051"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1016/j.worlddev.2022.106051"
 
   - title: "Exposures and behavioral responses to wildfire smoke"
     authors: "Burke, M., Heft-Neal, S., Li, J., Driscoll, A., Baylis, P., Stigler, M., Weill, J., Burney, J., Wen, J., Childs, M., Gould, C.F."
     year: 2022
     venue: "Nature Human Behaviour 6, 1351-1361"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41562-022-01396-6"
 
   - title: "Evidence of multi-dimensional gender inequality in energy services from a large-scale household survey in India"
     authors: "Zhang, A.T., Patnaik, S., Jha, S., Agrawal, S., Gould, C.F., Urpelainen, J."
     year: 2022
     venue: "Nature Energy 7, 698-707"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41560-022-01044-3"
 
   - title: "Poorer early childhood growth is associated with impaired lung function: Evidence from a Ghanaian pregnancy cohort"
     authors: "Kaali, S., Jack, D.W., Dommoh Prah, R.K., Chillrud, S.N., Mujtaba, M.N., Kinney, P.L., Tawiah, T., Yang, Q., Oppong, F.B., Gould, C.F., et al."
     year: 2022
     venue: "Pediatric Pulmonology 57(9), 2136-2146"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1002/ppul.26015"
 
   - title: "Environmental factors influencing COVID-19 incidence and severity"
     authors: "Weaver, A.K., Head, J.R., Gould, C.F., Carlton, E.J., Remais, J.V."
     year: 2022
     venue: "Annual Review of Public Health 43, 271-291"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1146/annurev-publhealth-052120-101420"
 
   - title: "Prenatal and postnatal household air pollution and infant growth trajectories: Evidence from a rural Ghanaian pregnancy cohort"
     authors: "Boamah-Kaali, E., Jack, D.W., Ae-Ngibise, K.A., Quinn, A., Kaali, S., Dubowski, K., Oppong, F., Wylie, B., Mujtaba, M., Gould, C.F., et al."
     year: 2021
     venue: "Environmental Health Perspectives 129(11), 117009"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://ehp.niehs.nih.gov/doi/full/10.1289/EHP8109"
 
   - title: "A cluster randomized trial of cookstove interventions to improve infant health in Ghana"
     authors: "Jack, D.W., Ae-Ngibise, K., Gould, C.F., et al."
     year: 2021
     venue: "BMJ Global Health 6(8), e005599"
-    links: []
+    links:
+      - label: "Link"
+        url: "http://dx.doi.org/10.1136/bmjgh-2021-005599"
 
   - title: "Prenatal household air pollutant exposure is associated with reduced size and gestational age at birth among a cohort of Ghanaian infants"
     authors: "Quinn, A.K., Adjei, I.A., Ae-Ngibise, K.A., Agyei, O., Boamah, E., Burkhart, K., Carri&oacute;n, D., Chillrud, S.N., Gould, C.F., et al."
     year: 2021
     venue: "Environment International 155, 106659"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1016/j.envint.2021.106659"
 
   - title: "Firewood, forests, and fringe populations: Exploring the inequitable socioeconomic dimensions of Liquified Petroleum Gas (LPG) adoption in India"
     authors: "Khanwilkar, S., Gould, C.F., Defries, R., Habib, B., Urpelainen, J."
     year: 2021
     venue: "Energy Research & Social Science 75, 102012"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1016/j.erss.2021.102012"
 
   - title: "The effect of clean cooking interventions on maternal and child personal exposure to air pollution: Results from the Ghana Randomized Air Pollution and Health Study"
     authors: "Chillrud, S.N., Ae-Ngibise, K.A., Gould, C.F.*, Owusu-Agyei, S., Mujtaba, M., Manu, M., Burkart, K., Kinney, P., Quinn, A., Jack, D.W., Asante, K.P."
     year: 2021
     venue: "Journal of Exposure Science and Environmental Epidemiology 35, 683-698"
-    links: []
+    links:
+      - label: "Link"
+        url: "http://www.nature.com/articles/s41370-021-00309-5"
 
   - title: "Using longitudinal survey and sensor data to understand the social and ecological determinants of suspending clean cookstove use in rural Ghana"
     authors: "Carri&oacute;n, D., Prah, R., Gould, C.F., Mujtaba, M., Pillarisetti, A., Agyei, O., Chillrud, S.N., Tawiah, T., Jack, D.W., Asante, K.P."
     year: 2020
     venue: "Environmental Research Communications 2(9), 095003"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://iopscience.iop.org/article/10.1088/2515-7620/abb831"
 
   - title: "Jointly modeling the adoption and use of clean cooking fuels in rural India"
     authors: "Gould, C.F.&dagger;, Hou, X.&dagger;, Sharma, A., Richmond, J., Urpelainen, J."
     year: 2020
     venue: "Environmental Research Communications 2(8), 085004"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://iopscience.iop.org/article/10.1088/2515-7620/abaca9"
 
   - title: "Long-standing LPG subsidies, cooking fuel stacking, and personal exposure to air pollution in rural and peri-urban Ecuador"
     authors: "Gould, C.F., Molina Rueda, E., Schlesinger, S., Bejarano, M.L., Valarezo, A., Jack, D.W."
     year: 2020
     venue: "Journal of Exposure Science and Environmental Epidemiology 30, 707-720"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41370-020-0231-5"
 
   - title: "The drivers of sustained use of liquefied petroleum gas in rural India"
     authors: "Mani, S., Jain, A., Tripathi, S., Gould, C.F."
     year: 2020
     venue: "Nature Energy 5, 450-457"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.nature.com/articles/s41560-020-0596-7"
+      - label: "Replication Archive"
+        url: "https://figshare.com/projects/What_determines_rural_Indian_households_transition_towards_the_sustained_use_of_LPG_for_cooking_/68585"
+      - label: "Policy Brief"
+        url: "https://www.nature.com/articles/s41560-020-0635-4"
 
   - title: "Household fuel mixes in peri-urban and rural Ecuador: Explaining the context of LPG, patterns of continued firewood use, and the limitations of induction cooking"
     authors: "Gould, C.F., Schlesinger, S., Molina Rueda, E., Bejarano, M.L., Valarezo, A., Jack, D.W."
     year: 2020
     venue: "Energy Policy 136, 11053"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0301421519306408"
 
   - title: "The role of education and attitudes in cooking fuel choice: Evidence from two states in India"
     authors: "Gould, C.F., Urpelainen, J."
     year: 2020
     venue: "Energy for Sustainable Development 54, 36-50"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0973082619300584"
+      - label: "Replication Archive"
+        url: "https://doi.org/10.7910/DVN/G0HJLV"
 
   - title: "The gendered nature of LPG adoption in rural India"
     authors: "Gould, C.F., Urpelainen, J."
     year: 2019
     venue: "Journal of Development Studies 56(7), 1309-1329"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.tandfonline.com/doi/abs/10.1080/00220388.2019.1657571"
+      - label: "Replication Archive"
+        url: "https://dataverse.harvard.edu/dataverse/Replication_GU_GenderLPGAdoption"
 
   - title: "LPG as a clean cooking fuel: Adoption, use, and impacts in rural India"
     authors: "Gould, C.F., Urpelainen, J."
     year: 2018
     venue: "Energy Policy 122, 395-408"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0301421518304877"
+      - label: "Replication Archive"
+        url: "https://doi.org/10.7910/DVN/EVM78E"
 
   - title: "Soot and the city: Evaluating the impacts of Clean Heat policies on indoor/outdoor air quality in New York City apartments"
     authors: "Gould, C.F., Chillrud, S.N., Phillips, D., Perzanowski, M.S., Hern&aacute;ndez, D."
     year: 2018
     venue: "PLOS ONE 13(6)"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0199783"
 
   - title: "Government policy, clean fuel access, and persistent fuel stacking in Ecuador"
     authors: "Gould, C.F., Schlesinger, S., Ochoa Toasa, A., Thurber, M., Waters, W., Graham, J., Jack, D."
     year: 2018
     venue: "Energy for Sustainable Development 46, 111-122"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0973082618302692"
 
   - title: "Prevalent degradation and patterns of use, maintenance, repair, and access to post-acquisition services for biomass stoves in Peru"
     authors: "Gould, C.F., Jagoe, K., Moreno, A.I., Verastegui, A., Pilco, V., Garcia, J., Fort, A., Johnson, M."
     year: 2018
     venue: "Energy for Sustainable Development 45, 79-87"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0973082618303855"
 
   - title: "Usage and impacts of the Envirofit HM-5000 cookstove"
     authors: "Garland, C., Gould, C.F., Pennise, D."
     year: 2018
     venue: "Indoor Air 28, 640-650"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12460"
 
   - title: "Association of exercise-induced wheeze and other asthma symptoms with emergency department visits and hospitalizations in a large cohort of urban adolescents"
     authors: "Gould, C.F., Perzanowski, M.S., Evans, D., Bruzzese, J.-M."
     year: 2018
     venue: "Respiratory Medicine 135, 42-50"
-    links: []
+    links:
+      - label: "Link"
+        url: "https://www.sciencedirect.com/science/article/pii/S0954611118300064"
 
 other_publications:
   - title: "Is a microgram of smoke PM2.5 worse for respiratory health? Interpreting new evidence"
     authors: "Heft-Neal, S., Gould, C.F."
     year: 2025
-    venue: "American Journal of Respiratory and Critical Care Medicine"
-    links: []
+    venue: "American Journal of Respiratory and Critical Care Medicine 211(11), 1988-1990"
+    links:
+      - label: "Link"
+        url: "https://doi.org/10.1164/rccm.202508-2037ED"
 
   - title: "Quasi-experimental methods in air pollution epidemiology"
     authors: "Gould, C.F."
     year: 2026
-    venue: "American Journal of Respiratory and Critical Care Medicine"
-    note: "Forthcoming"
+    venue: "American Journal of Respiratory and Critical Care Medicine 211"
+    links:
+      - label: "Link"
+        url: "https://academic.oup.com/ajrccm/advance-article-abstract/doi/10.1093/ajrccm/aamag217/8662815"
+
+  - title: "Decarbonizing Lifesaving Care: The Case for Greener Economic Organ Transport"
+    authors: "Gould, C.F., Shin, H.D., Schnickel, G.T."
+    year: 2026
+    venue: "Transplantation"
+    note: "Provisionally accepted"
     links: []
 
 working_papers:
   - title: "Understanding and addressing temperature impacts on mortality"
     authors: "Burke, M., Wilson, A., Avirmed, K., Wallstein, J., Martins, M., Behrer, P., Callahan, C., Childs, M., Choi, M., French, K., Gould, C.F., Heft-Neal, S., Jing, R., Qiu, M., Rennels, L., Krasovich Southworth, E."
     note: "In Revisions"
-    links: []
-
-  - title: "Encoding justice with data: Environmental justice screening tools and the limits of quantification"
-    authors: "Daouda, M., Gould, C.F."
-    note: "Submitted"
-    links: []
+    links:
+      - label: "Preprint"
+        url: "https://doi.org/10.31223/X5TQ84"
