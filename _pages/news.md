@@ -6,7 +6,43 @@ lede: "Media coverage, interviews, and recent highlights."
 ---
 
 <div class="br-cv-section">
+<h2>2026</h2>
+
+<div class="br-cv-row">
+<span class="br-cv-year">Jul</span>
+<div>
+<span class="br-cv-title">The health impacts of poor air as wildfire smoke set to linger</span>
+<span class="br-cv-detail">Interview segment on <a href="https://www.cbsnews.com/video/health-impacts-poor-air-wildfire-smoke-set-linger/">CBS News</a> on the health implications of wildfire smoke drifting in from Canada.</span>
+</div>
+</div>
+</div>
+
+<div class="br-cv-section">
 <h2>2025</h2>
+
+<div class="br-cv-row">
+<span class="br-cv-year">Oct</span>
+<div>
+<span class="br-cv-title">Researchers link wildfire smoke to hundreds of excess deaths each year in San Diego County by 2050</span>
+<span class="br-cv-detail"><a href="https://www.kpbs.org/news/environment/2025/10/10/researchers-link-wildfire-smoke-to-hundreds-of-excess-deaths-each-year-in-san-diego-county-by-2050">KPBS</a> coverage of our research linking wildfire smoke to future mortality burden in San Diego County.</span>
+</div>
+</div>
+
+<div class="br-cv-row">
+<span class="br-cv-year">Aug</span>
+<div>
+<span class="br-cv-title">When wildfires make the air smoky, here's how to protect your health</span>
+<span class="br-cv-detail">Interviewed by <a href="https://www.npr.org/2025/08/06/nx-s1-5493344/when-wildfires-make-the-air-smoky-heres-how-to-protect-your-health">NPR</a> on protecting yourself from wildfire smoke exposure.</span>
+</div>
+</div>
+
+<div class="br-cv-row">
+<span class="br-cv-year">Apr</span>
+<div>
+<span class="br-cv-title">Climate Change, Health and the Future of Cities</span>
+<span class="br-cv-detail">An interactive discussion with journalist Edie Lush, hosted by the UC Sustainability Network Europe. <a href="https://www.youtube.com/watch?v=HrWeFu0-BjQ">Watch on YouTube</a>.</span>
+</div>
+</div>
 
 <div class="br-cv-row">
 <span class="br-cv-year">Jan</span>
