@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <header class="br-page-header">
+    <div>
+      <span class="br-label">File {{ page.file_no | default: "004" }} · {{ page.file_label | default: page.title }}</span>
+      <h1 class="br-page-title">{{ page.display_title | default: page.title }}</h1>
+      {% if page.lede %}<p class="br-page-header__lede">{{ page.lede }}</p>{% endif %}
+    </div>
+  </header>
+  <section class="page__content notes-page">
+    {{ content }}
+  </section>
+</div>

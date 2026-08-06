@@ -1,0 +1,18 @@
+- institution: "University of California, San Diego"
+  courses:
+    - title: "Introduction to Environmental and Occupational Health (PH 130)"
+      level: "Undergraduate"
+    - title: "Data Visualization for Public Health: Theory and Application Using Open Source Software (FMPH 491)"
+      level: "Graduate"
+    - title: "Environmental and Occupational Health (PH 404)"
+      level: "Graduate"
+      callout: "Co-Instructor"
+
+- institution: "Columbia University Mailman School of Public Health"
+  courses:
+    - title: "Capstone: Critical Thinking and Analysis in Environmental Health Sciences"
+      level: "Graduate"
+      callout: "Lead Teaching Fellow (2019-2020)"
+    - title: "Public Health GIS"
+      level: "Graduate"
+      callout: "Teaching Fellow (2017)"

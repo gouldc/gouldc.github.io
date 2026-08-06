@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+  <article class="page{% if page.id %} br-post{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+
+    {% if page.id %}
+      {% assign filed_under = "Notes" %}
+      {% assign kicker_label = "Note" %}
+      {% if page.nav_section == "ai-guides" %}
+        {% assign filed_under = "AI Guides" %}
+        {% assign kicker_label = "AI Guide" %}
+      {% elsif page.nav_section == "advice" %}
+        {% assign filed_under = "Advice" %}
+        {% assign kicker_label = "Advice" %}
+      {% endif %}
+      <header class="br-post-hero">
+        <div class="br-post-kicker">
+          <span class="br-label">File {{ page.file_no | default: "023" }} · {{ kicker_label }}</span>
+          <span class="br-label">
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+            {% if page.read_time %} · {% include read-time.html %}{% endif %}
+          </span>
+        </div>
+        <h1 class="br-post-title" itemprop="headline">{{ page.title }}</h1>
+        {% if page.excerpt %}<p class="br-post-lede">{{ page.excerpt | strip_html }}</p>{% endif %}
+      </header>
+
+      <div class="br-record-strip">
+        <div class="br-record-strip__cell">
+          <span class="br-label">Filed under</span>
+          <div class="br-record-strip__value">{{ filed_under }}</div>
+        </div>
+      </div>
+
+      {% include toc-grid.html %}
+    {% else %}
+      <header class="br-page-header">
+        <div>
+          <span class="br-label">File {{ page.file_no | default: "999" }} · {{ page.file_label | default: page.title }}</span>
+          {% if page.title %}<h1 class="br-page-title" itemprop="headline">{{ page.display_title | default: page.title }}</h1>{% endif %}
+          {% if page.lede %}<p class="br-page-header__lede">{{ page.lede }}</p>{% endif %}
+        </div>
+        {% if page.cta_url %}
+          <a class="br-primary" href="{{ page.cta_url | relative_url }}">{{ page.cta_label | default: "Download" }}</a>
+        {% endif %}
+      </header>
+
+      {% if page.show_toc %}
+        {% include toc-grid.html %}
+      {% else %}
+        <section class="page__content" itemprop="text">
+          {{ content }}
+        </section>
+      {% endif %}
+    {% endif %}
+
+    {% if site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+</div>
