@@ -521,9 +521,11 @@ a:hover {
 
 .br-index__row {
   display: grid;
-  grid-template-columns: 70px 260px minmax(0, 1fr) 60px;
-  align-items: baseline;
+  grid-template-columns: minmax(200px, 260px) minmax(0, 1fr) 60px;
+  gap: var(--space-3);
+  align-items: center;
   min-height: 74px;
+  padding: 22px var(--space-4);
   border-bottom: 1px solid var(--ink);
   color: var(--ink);
   text-decoration: none;
@@ -534,24 +536,21 @@ a:hover {
   background: var(--paper-2);
 }
 
-.br-index__num,
-.br-index__arrow {
-  padding: 22px var(--space-4);
+.br-index__num {
   color: var(--mute);
   font-family: var(--font-mono);
   font-size: 13px;
 }
 
 .br-index__title {
-  padding: 22px 0;
   font-size: 22px;
   font-weight: 700;
   letter-spacing: -0.01em;
   text-transform: uppercase;
+  line-height: 26px;
 }
 
 .br-index__desc {
-  padding: 22px 0;
   font-size: 14px;
   line-height: 21px;
 }
@@ -559,6 +558,7 @@ a:hover {
 .br-index__arrow {
   color: var(--ink);
   text-align: right;
+  font-size: 16px;
 }
 
 .br-list-row {
