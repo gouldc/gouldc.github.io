@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I study the health impacts of environmental exposures to inform policy strategies that protect human health. My research spans climate change adaptation, wildfire smoke and extreme heat, and clean cooking fuel transitions in low- and middle-income countries.
+I use causal inference and large-scale environmental data &mdash; administrative mortality records, satellite imagery, household surveys &mdash; to quantify how a changing climate affects human health, and to identify which policies, technologies, and behaviors can build resilience. My research spans extreme heat and wildfire smoke mortality, climate adaptation policy, and household energy transitions in low- and middle-income countries, often in collaboration with climate scientists, economists, and clinicians.
 
-I am an Assistant Professor at the University of California, San Diego in the Herbert Wertheim School of Public Health. I use causal inference methods and large-scale environmental data to understand how we can reduce environmental health risks and improve population health.
+I am an Assistant Professor at the University of California, San Diego in the Herbert Wertheim School of Public Health, following a postdoc with Marshall Burke's Environmental Change and Human Outcomes Lab at Stanford and a PhD at Columbia.

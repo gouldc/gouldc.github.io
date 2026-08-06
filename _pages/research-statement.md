@@ -17,15 +17,11 @@ At Stanford, as a part of the Environmental Change and Human Outcomes Lab, I wor
 
 I joined the faculty of UCSD in Summer 2023, and since then have focused on examining the health effects of environmental exposures, teaching at HWSPH and UCSD, and developing interdisciplinary collaborations across UCSD.
 
-## Research Areas
+A fuller description of current research interests is on the [Research](/research/) page.
 
-I use a variety of approaches to study a range of environmental health problems. I aim to understand what determines personal environmental exposures, how they impact health, and to what extent we can reduce exposures to lead to healthier lives.
+## Mentorship &amp; Collaboration
 
-**Adaptation to climate change to improve public health.** Adaptation to climate change is urgently needed. My research tries to understand which programs, policies, and strategies can reduce the impacts of climate hazards on public health.
-
-**Overlap and synergistic health impacts of wildfires and heat.** Wildfires are a substantial and growing source of air pollution in the western US, and will increasingly coincide with elevated temperatures.
-
-**Household transitions to clean cooking fuels.** Displacing polluting cooking fuels with clean-burning fuels promises improved health and well-being. My research examines under what circumstances these transitions can take place in India, Ecuador, and elsewhere.
+I've mentored PhD, master's, and undergraduate researchers at Columbia, Stanford, and UC San Diego &mdash; several are now faculty or researchers in their own right, including Misbath Daouda (now Assistant Professor at UC Berkeley) and Jenni Shearston (now faculty at CU Boulder). Much of my research is collaborative and interdisciplinary by design, with co-authors spanning climate science, economics, and clinical medicine, including long-running collaborations with Marshall Burke's group at Stanford and Darby Jack's group at Columbia.
 
 ## Personal
 

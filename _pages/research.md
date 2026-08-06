@@ -10,31 +10,33 @@ lede: "Peer-reviewed publications and working papers on environmental health, cl
 
 <div class="br-cv-section">
 <h2>Research Interests</h2>
-<p class="br-cv-detail" style="margin-bottom: 16px;">I use a variety of approaches to study a range of environmental health problems &mdash; what determines personal environmental exposures, how they impact health, and to what extent we can reduce exposures to lead to healthier lives.</p>
+<p class="br-cv-detail" style="margin-bottom: 16px;">I use causal inference and large-scale environmental data to quantify how a changing climate affects human health, and to identify which policies, technologies, and behaviors can build resilience.</p>
 
 <div class="br-cv-row">
-<span class="br-cv-year">CLIMATE<br>ADAPTATION</span>
+<span class="br-cv-year">CAUSAL<br>INFERENCE</span>
 <div>
-<span class="br-cv-title">Adaptation to climate change to improve public health</span>
-<span class="br-cv-detail">Which programs, policies, and strategies can reduce the impacts of climate hazards &mdash; especially extreme heat &mdash; on public health.</span>
-</div>
-</div>
-
-<div class="br-cv-row">
-<span class="br-cv-year">WILDFIRE<br>&amp; HEAT</span>
-<div>
-<span class="br-cv-title">Overlap and synergistic health impacts of wildfires and heat</span>
-<span class="br-cv-detail">Wildfires are a substantial and growing source of air pollution in the western US, increasingly coinciding with elevated temperatures.</span>
+<span class="br-cv-title">Causal inference for a changing climate</span>
+<span class="br-cv-detail">Quasi-experimental methods to isolate the mortality and morbidity burden of extreme heat and wildfire smoke &mdash; and to measure how much adaptation is already offsetting it &mdash; using large administrative mortality data, satellite-derived exposure estimates, and collaboration with climate scientists projecting risk under future warming.</span>
 </div>
 </div>
 
 <div class="br-cv-row">
-<span class="br-cv-year">CLEAN<br>COOKING</span>
+<span class="br-cv-year">ADAPTATION<br>POLICY</span>
 <div>
-<span class="br-cv-title">Household transitions to clean cooking fuels</span>
-<span class="br-cv-detail">Under what circumstances displacing polluting cooking fuels with clean-burning fuels can take place in India, Ecuador, and elsewhere.</span>
+<span class="br-cv-title">Institutions, policy, and climate adaptation</span>
+<span class="br-cv-detail">What makes adaptation actually happen? Recent work treats health insurance design as a climate adaptation tool, and a broader research agenda in the Global South asks which programs and policies convert into measurable resilience.</span>
 </div>
 </div>
+
+<div class="br-cv-row">
+<span class="br-cv-year">ENERGY &amp;<br>BEHAVIOR</span>
+<div>
+<span class="br-cv-title">Behavioral adaptation to a changing environment</span>
+<span class="br-cv-detail">Two decades of fieldwork in India, Ecuador, and Ghana on why households do &mdash; and don't &mdash; adopt cleaner cooking fuels, treating fuel-stacking and technology adoption as a behavioral and institutional problem as much as an engineering one. The same lens extends to how people change everyday behavior in response to acute environmental hazards like wildfire smoke.</span>
+</div>
+</div>
+
+<p class="br-cv-detail" style="margin-top: 20px;">Much of this work is collaborative and interdisciplinary, with co-authors spanning climate science, economics, and clinical medicine. Where possible, data and code are made publicly available &mdash; look for <strong>Data</strong> and <strong>Replication Archive</strong> links on individual papers below.</p>
 </div>
 
 {% include list-publications.html %}
