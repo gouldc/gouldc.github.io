@@ -3,6 +3,7 @@ published:
     authors: "Daouda, M., Gould, C.F."
     year: 2026
     venue: "Current Environmental Health Reports 13, 24"
+    categories: [climate-adaptation]
     links:
       - label: "Link"
         url: "https://doi.org/10.1007/s40572-026-00543-9"
@@ -11,6 +12,7 @@ published:
     authors: "Gould, C.F., Tsou, A-C., Puliady, S., McMenamin, S.B."
     year: 2026
     venue: "Health Affairs 45(5), 471-479"
+    categories: [climate-adaptation]
     links:
       - label: "Link"
         url: "https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2025.01670"
@@ -19,6 +21,7 @@ published:
     authors: "Suarez-Torres, J.R.&dagger;, Gould, C.F.&dagger;, Vasishtha, D., Bradman, A., Suarez-Torres, J., Lopez-Paredes, D., Martinez, D., Moore, R."
     year: 2026
     venue: "Journal of Exposure Science and Environmental Epidemiology"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41370-026-00866-7"
@@ -27,6 +30,7 @@ published:
     authors: "Gould, C.F.&dagger;, Gill-Wiehl, A.&dagger;, Pillarisetti, A., Kwong, L.H., Kammen, D., Clasen, T."
     year: 2026
     venue: "Lancet Global Health 14(4), E640-E652"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00527-3/fulltext"
@@ -35,6 +39,7 @@ published:
     authors: "Gill-Wiehl, A.&dagger;, Gould, C.F.&dagger;, Jeuland, M., Pillarisetti, A., Pachauri, S., Shirley, R., Troncoso, K., Jack, D.W., Leach, M., Batchelor, S., Kwong, L.H., Kammen, D."
     year: 2026
     venue: "Lancet Global Health 14(4), E598-611"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00532-7/fulltext"
@@ -43,6 +48,7 @@ published:
     authors: "Pillarisetti, A., Daouda, M., Gould, C.F., Gill-Wiehl, A., Clasen, T., Kammen, D., Amegah, A.K., Balakrishnan, K."
     year: 2026
     venue: "Lancet Global Health 14(4), E612-E625"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(26)00002-1/fulltext"
@@ -51,6 +57,7 @@ published:
     authors: "Callahan, C., Trok, J., Wilson, A.J., Gould, C.F., Heft-Neal, S., Diffenbaugh, N.S., Burke, M."
     year: 2026
     venue: "Nature Climate Change 16, 26-32"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41558-025-02480-1"
@@ -59,6 +66,7 @@ published:
     authors: "Callahan, C., Trok, J., Wilson, A.J., Gould, C.F., Heft-Neal, S., Burke, M., Diffenbaugh, N.S."
     year: 2025
     venue: "Proceedings of the National Academy of Sciences 122(51), e2503577122"
+    categories: [causal-inference, climate-adaptation]
     links:
       - label: "Link"
         url: "https://www.pnas.org/doi/10.1073/pnas.2503577122"
@@ -67,6 +75,7 @@ published:
     authors: "Qiu, M., Li, J., Gould, C.F., Jing, R., Kelp, M., Childs, M.L., Wen, J., Xie, Y., Lin, M., Kiang, M.V., Heft-Neal, S., Diffenbaugh, N., Burke, M."
     year: 2025
     venue: "Nature 647, 935-943"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41586-025-09611-w"
@@ -77,6 +86,7 @@ published:
     authors: "Gould, C.F., Heft-Neal, S., Heaney, A.K., Bendavid, E., Callahan, C., Kiang, M.V., Graff Zivin, J., Burke, M."
     year: 2025
     venue: "Science Advances 11, 31"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://www.science.org/doi/10.1126/sciadv.adr3070"
@@ -85,6 +95,7 @@ published:
     authors: "Gould, C.F.&dagger;, Kornher, K.&dagger;, Meeko Manzano, J., Baines, K., Kayser, G., Tu, X., Suarez-Torres, J., Martinez, D., Suarez-Lopez, J.R."
     year: 2025
     venue: "International Journal of Hygiene and Environmental Health 265, 114526"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://doi.org/10.1016/j.ijheh.2025.114526"
@@ -93,6 +104,7 @@ published:
     authors: "Krasovich-Southworth, E., Qiu, M., Gould, C.F., Kawano, A., Wen, J., Heft-Neal, S., Voss, K.K., Lopez, A., Fendorf, S., Burney, J., Burke, M."
     year: 2025
     venue: "Environmental Science & Technology 59, 6"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://pubs.acs.org/doi/full/10.1021/acs.est.4c09011"
@@ -101,6 +113,7 @@ published:
     authors: "Qiu, M., Kelp, M., Heft-Neal, S., Jin, X., Gould, C.F., Tong, D.Q., Burke, M."
     year: 2024
     venue: "Environmental Science & Technology 58, 52"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://pubs.acs.org/doi/abs/10.1021/acs.est.4c05922"
@@ -109,6 +122,7 @@ published:
     authors: "Gould, C.F., Bailis, R., Balakrishnan, K., Burke, M., Espinoza, S., Mehta, S., Suarez-Lopez, J., Pillarisetti, A."
     year: 2024
     venue: "Environmental Research Letters 19, 081002"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://iopscience.iop.org/article/10.1088/1748-9326/ad5d06"
@@ -117,6 +131,7 @@ published:
     authors: "Daouda, M., Kaali, S., Spring, E., Mujtaba, M., Jack, D.W., Dwommoh Prah, R.K., Colicino, E., Tawiah, T., Gennings, C., Osei, M., Janevic, T., Chillrud, S.N., Agyei, O., Quinn, A., Gould, C.F., Lee, A.G., Asante, K.P."
     year: 2024
     venue: "Environmental Health Perspectives 132, 3"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://ehp.niehs.nih.gov/doi/10.1289/EHP13225"
@@ -125,6 +140,7 @@ published:
     authors: "Gould, C.F.&dagger;, Davila, L.&dagger;, Bejarano, M.L., Burke, M., Jack, D.W., Schlesinger, S., Mora, J., Valarezo, A."
     year: 2024
     venue: "Environmental Health Perspectives 132, 1"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://ehp.niehs.nih.gov/doi/full/10.1289/EHP13134"
@@ -133,6 +149,7 @@ published:
     authors: "Gould, C.F., Heft-Neal, S., Prunicki, M., Aguilera-Mendoza, J.A., Burke, M.&dagger;, Nadeau, K.&dagger;"
     year: 2024
     venue: "Annual Review of Medicine 45"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://www.annualreviews.org/doi/abs/10.1146/annurev-med-052422-020909"
@@ -141,6 +158,7 @@ published:
     authors: "Burke, M.&dagger;, Childs, M.&dagger;, de la Cuesta, B., Qiu, M., Li, J., Gould, C.F., Heft-Neal, S., Wara, M."
     year: 2023
     venue: "Nature 622, 761-766"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://rdcu.be/dmPN1"
@@ -151,6 +169,7 @@ published:
     authors: "Heft-Neal, S., Gould, C.F., Childs, M., Kiang, M., Nadeau, K., Duggan, M., Bendavid, E., Burke, M."
     year: 2023
     venue: "Proceedings of the National Academy of Sciences 120(39), e230240912"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://www.pnas.org/doi/10.1073/pnas.2302409120"
@@ -161,6 +180,7 @@ published:
     authors: "Gould, C.F., Bejarano, M.L., De la Cuesta, B., Jack, D.W., Schlesinger, S., Valarezo, A., Burke, M."
     year: 2023
     venue: "Proceedings of the National Academy of Sciences 120(34), e2301061120"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://doi.org/10.1073/pnas.2301061120"
@@ -169,6 +189,7 @@ published:
     authors: "Valarezo, A., Davila, L., Bejarano, M.L., Nolivo, I., Molina, E., Schlesinger, S.B., Gould, C.F., Jack, D.W."
     year: 2023
     venue: "Energy for Sustainable Development 74, 349-360"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0973082623000704"
@@ -177,6 +198,7 @@ published:
     authors: "Gould, C.F., Bejarano, M.L., Kioumourtzoglou, M.-A., Lee, A.G., Pillarisetti, A., Schlesinger, S., Ter&aacute;n, E., Valarezo, A., Jack, D.W."
     year: 2023
     venue: "Environmental Health Perspectives 131, 3"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://ehp.niehs.nih.gov/doi/10.1289/EHP11016"
@@ -185,6 +207,7 @@ published:
     authors: "Gould, C.F.&dagger;, Pillarisetti, A.&dagger;, Thompson, L., Saluja, S., Nandan, V., Urpelainen, J."
     year: 2023
     venue: "Nature Energy 8, 169-178"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41560-022-01187-3"
@@ -193,6 +216,7 @@ published:
     authors: "Gould, C.F., Ae-Ngibise, K.A., Yang, Q., Owusu-Agyei, S., Burkart, K., Boama-Kaali, E., Kinney, P., Mujtaba, M., Quinn, A., Manu, G., Jack, D.W., Chillrud, S.N., Asante, K.P."
     year: 2022
     venue: "Journal of Exposure Science and Environmental Epidemiology 33, 386-395"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41370-022-00483-0"
@@ -201,6 +225,7 @@ published:
     authors: "Childs, M., Li, J., Wen, J., Heft-Neal, S., Driscoll, A., Wang, S., Gould, C.F., Qiu, M., Burney, J., Burke, M."
     year: 2022
     venue: "Environmental Science & Technology 56(19), 13607-13621"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://doi.org/10.1021/acs.est.2c02934"
@@ -209,6 +234,7 @@ published:
     authors: "Gould, C.F., Jha, S., Patnaik, S., Agrawal, S., Zhang, A.T., Saluja, S., Nandan, V., Mani, S., Urpelainen, J."
     year: 2022
     venue: "World Development 159, 106051"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://doi.org/10.1016/j.worlddev.2022.106051"
@@ -217,6 +243,7 @@ published:
     authors: "Burke, M., Heft-Neal, S., Li, J., Driscoll, A., Baylis, P., Stigler, M., Weill, J., Burney, J., Wen, J., Childs, M., Gould, C.F."
     year: 2022
     venue: "Nature Human Behaviour 6, 1351-1361"
+    categories: [causal-inference, climate-adaptation]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41562-022-01396-6"
@@ -225,6 +252,7 @@ published:
     authors: "Zhang, A.T., Patnaik, S., Jha, S., Agrawal, S., Gould, C.F., Urpelainen, J."
     year: 2022
     venue: "Nature Energy 7, 698-707"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41560-022-01044-3"
@@ -233,6 +261,7 @@ published:
     authors: "Kaali, S., Jack, D.W., Dommoh Prah, R.K., Chillrud, S.N., Mujtaba, M.N., Kinney, P.L., Tawiah, T., Yang, Q., Oppong, F.B., Gould, C.F., et al."
     year: 2022
     venue: "Pediatric Pulmonology 57(9), 2136-2146"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://doi.org/10.1002/ppul.26015"
@@ -241,6 +270,7 @@ published:
     authors: "Weaver, A.K., Head, J.R., Gould, C.F., Carlton, E.J., Remais, J.V."
     year: 2022
     venue: "Annual Review of Public Health 43, 271-291"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://doi.org/10.1146/annurev-publhealth-052120-101420"
@@ -249,6 +279,7 @@ published:
     authors: "Boamah-Kaali, E., Jack, D.W., Ae-Ngibise, K.A., Quinn, A., Kaali, S., Dubowski, K., Oppong, F., Wylie, B., Mujtaba, M., Gould, C.F., et al."
     year: 2021
     venue: "Environmental Health Perspectives 129(11), 117009"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://ehp.niehs.nih.gov/doi/full/10.1289/EHP8109"
@@ -257,6 +288,7 @@ published:
     authors: "Jack, D.W., Ae-Ngibise, K., Gould, C.F., et al."
     year: 2021
     venue: "BMJ Global Health 6(8), e005599"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "http://dx.doi.org/10.1136/bmjgh-2021-005599"
@@ -265,6 +297,7 @@ published:
     authors: "Quinn, A.K., Adjei, I.A., Ae-Ngibise, K.A., Agyei, O., Boamah, E., Burkhart, K., Carri&oacute;n, D., Chillrud, S.N., Gould, C.F., et al."
     year: 2021
     venue: "Environment International 155, 106659"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://doi.org/10.1016/j.envint.2021.106659"
@@ -273,6 +306,7 @@ published:
     authors: "Khanwilkar, S., Gould, C.F., Defries, R., Habib, B., Urpelainen, J."
     year: 2021
     venue: "Energy Research & Social Science 75, 102012"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://doi.org/10.1016/j.erss.2021.102012"
@@ -281,6 +315,7 @@ published:
     authors: "Chillrud, S.N., Ae-Ngibise, K.A., Gould, C.F.*, Owusu-Agyei, S., Mujtaba, M., Manu, M., Burkart, K., Kinney, P., Quinn, A., Jack, D.W., Asante, K.P."
     year: 2021
     venue: "Journal of Exposure Science and Environmental Epidemiology 35, 683-698"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "http://www.nature.com/articles/s41370-021-00309-5"
@@ -289,6 +324,7 @@ published:
     authors: "Carri&oacute;n, D., Prah, R., Gould, C.F., Mujtaba, M., Pillarisetti, A., Agyei, O., Chillrud, S.N., Tawiah, T., Jack, D.W., Asante, K.P."
     year: 2020
     venue: "Environmental Research Communications 2(9), 095003"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://iopscience.iop.org/article/10.1088/2515-7620/abb831"
@@ -297,6 +333,7 @@ published:
     authors: "Gould, C.F.&dagger;, Hou, X.&dagger;, Sharma, A., Richmond, J., Urpelainen, J."
     year: 2020
     venue: "Environmental Research Communications 2(8), 085004"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://iopscience.iop.org/article/10.1088/2515-7620/abaca9"
@@ -305,6 +342,7 @@ published:
     authors: "Gould, C.F., Molina Rueda, E., Schlesinger, S., Bejarano, M.L., Valarezo, A., Jack, D.W."
     year: 2020
     venue: "Journal of Exposure Science and Environmental Epidemiology 30, 707-720"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41370-020-0231-5"
@@ -313,6 +351,7 @@ published:
     authors: "Mani, S., Jain, A., Tripathi, S., Gould, C.F."
     year: 2020
     venue: "Nature Energy 5, 450-457"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41560-020-0596-7"
@@ -325,6 +364,7 @@ published:
     authors: "Gould, C.F., Schlesinger, S., Molina Rueda, E., Bejarano, M.L., Valarezo, A., Jack, D.W."
     year: 2020
     venue: "Energy Policy 136, 11053"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0301421519306408"
@@ -333,6 +373,7 @@ published:
     authors: "Gould, C.F., Urpelainen, J."
     year: 2020
     venue: "Energy for Sustainable Development 54, 36-50"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0973082619300584"
@@ -343,6 +384,7 @@ published:
     authors: "Gould, C.F., Urpelainen, J."
     year: 2019
     venue: "Journal of Development Studies 56(7), 1309-1329"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.tandfonline.com/doi/abs/10.1080/00220388.2019.1657571"
@@ -353,6 +395,7 @@ published:
     authors: "Gould, C.F., Urpelainen, J."
     year: 2018
     venue: "Energy Policy 122, 395-408"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0301421518304877"
@@ -363,6 +406,7 @@ published:
     authors: "Gould, C.F., Chillrud, S.N., Phillips, D., Perzanowski, M.S., Hern&aacute;ndez, D."
     year: 2018
     venue: "PLOS ONE 13(6)"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0199783"
@@ -371,6 +415,7 @@ published:
     authors: "Gould, C.F., Schlesinger, S., Ochoa Toasa, A., Thurber, M., Waters, W., Graham, J., Jack, D."
     year: 2018
     venue: "Energy for Sustainable Development 46, 111-122"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0973082618302692"
@@ -379,6 +424,7 @@ published:
     authors: "Gould, C.F., Jagoe, K., Moreno, A.I., Verastegui, A., Pilco, V., Garcia, J., Fort, A., Johnson, M."
     year: 2018
     venue: "Energy for Sustainable Development 45, 79-87"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0973082618303855"
@@ -387,6 +433,7 @@ published:
     authors: "Garland, C., Gould, C.F., Pennise, D."
     year: 2018
     venue: "Indoor Air 28, 640-650"
+    categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12460"
@@ -395,6 +442,7 @@ published:
     authors: "Gould, C.F., Perzanowski, M.S., Evans, D., Bruzzese, J.-M."
     year: 2018
     venue: "Respiratory Medicine 135, 42-50"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://www.sciencedirect.com/science/article/pii/S0954611118300064"
@@ -404,6 +452,7 @@ other_publications:
     authors: "Heft-Neal, S., Gould, C.F."
     year: 2025
     venue: "American Journal of Respiratory and Critical Care Medicine 211(11), 1988-1990"
+    categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://doi.org/10.1164/rccm.202508-2037ED"
@@ -412,6 +461,7 @@ other_publications:
     authors: "Gould, C.F."
     year: 2026
     venue: "American Journal of Respiratory and Critical Care Medicine 211"
+    categories: [causal-inference]
     links:
       - label: "Link"
         url: "https://academic.oup.com/ajrccm/advance-article-abstract/doi/10.1093/ajrccm/aamag217/8662815"
@@ -427,6 +477,7 @@ working_papers:
   - title: "Understanding and addressing temperature impacts on mortality"
     authors: "Burke, M., Wilson, A., Avirmed, K., Wallstein, J., Martins, M., Behrer, P., Callahan, C., Childs, M., Choi, M., French, K., Gould, C.F., Heft-Neal, S., Jing, R., Qiu, M., Rennels, L., Krasovich Southworth, E."
     note: "In Revisions"
+    categories: [causal-inference, climate-adaptation]
     links:
       - label: "Preprint"
         url: "https://doi.org/10.31223/X5TQ84"

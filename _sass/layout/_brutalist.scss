@@ -752,6 +752,34 @@ a:hover {
   text-transform: uppercase;
 }
 
+.br-pub-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: var(--space-4) var(--space-4) 0;
+}
+
+.br-filter-btn {
+  padding: 8px 14px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.br-filter-btn:hover {
+  background: var(--paper-2);
+}
+
+.br-filter-btn.is-active {
+  background: var(--ink);
+  color: var(--paper);
+}
+
 .br-notes-year {
   border-bottom: 2px solid var(--ink);
 }

@@ -1,9 +1,17 @@
 {% assign pubs = site.data.publications %}
 
+<div class="br-pub-filters" role="group" aria-label="Filter publications by topic">
+  <button type="button" class="br-filter-btn is-active" data-filter="all">All</button>
+  <button type="button" class="br-filter-btn" data-filter="causal-inference">Causal Inference</button>
+  <button type="button" class="br-filter-btn" data-filter="climate-adaptation">Climate Adaptation</button>
+  <button type="button" class="br-filter-btn" data-filter="energy-transitions">Energy Transitions</button>
+  <button type="button" class="br-filter-btn" data-filter="environmental-epidemiology">Environmental Epidemiology</button>
+</div>
+
 {% if pubs.published %}
-<div class="br-section-label">§ Published</div>
+<div class="br-section-label" data-pub-section>§ Published</div>
 {% for item in pubs.published -%}
-<article class="br-list-row br-publication-row{% if item.abstract %} has-abstract{% endif %}">
+<article class="br-list-row br-publication-row{% if item.abstract %} has-abstract{% endif %}"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
   <span class="br-row-meta">{{ item.year }}</span>
   <div class="br-pub-content">
     <h3 class="br-row-title{% if item.abstract %} br-expandable{% endif %}"{% if item.abstract %} onclick="this.closest('.br-publication-row').classList.toggle('is-open')"{% endif %}>
@@ -22,9 +30,9 @@
 {% endif %}
 
 {% if pubs.working_papers %}
-<div class="br-section-label">§ Working Papers &amp; Submitted</div>
+<div class="br-section-label" data-pub-section>§ Working Papers &amp; Submitted</div>
 {% for item in pubs.working_papers -%}
-<article class="br-list-row br-publication-row">
+<article class="br-list-row br-publication-row"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
   <span class="br-row-meta">{{ item.note | default: "WP" }}</span>
   <div class="br-pub-content">
     <h3 class="br-row-title">{{ item.title }}</h3>
@@ -40,9 +48,9 @@
 {% endif %}
 
 {% if pubs.other_publications %}
-<div class="br-section-label">§ Other Writing</div>
+<div class="br-section-label" data-pub-section>§ Other Writing</div>
 {% for item in pubs.other_publications -%}
-<article class="br-list-row br-publication-row">
+<article class="br-list-row br-publication-row"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
   <span class="br-row-meta">{{ item.year }}</span>
   <div class="br-pub-content">
     <h3 class="br-row-title">{{ item.title }}{% if item.note %} <span class="br-row-note">({{ item.note }})</span>{% endif %}</h3>
@@ -56,3 +64,42 @@
 </article>
 {%- endfor %}
 {% endif %}
+
+<script>
+(function () {
+  var filterBtns = document.querySelectorAll('.br-filter-btn');
+  var rows = document.querySelectorAll('.br-publication-row');
+  var sections = document.querySelectorAll('[data-pub-section]');
+
+  function applyFilter(filter) {
+    rows.forEach(function (row) {
+      if (filter === 'all') {
+        row.style.display = '';
+        return;
+      }
+      var cats = (row.getAttribute('data-categories') || '').split(' ');
+      row.style.display = cats.indexOf(filter) !== -1 ? '' : 'none';
+    });
+    sections.forEach(function (section) {
+      var next = section.nextElementSibling;
+      var hasVisible = false;
+      while (next && !next.hasAttribute('data-pub-section')) {
+        if (next.classList.contains('br-publication-row') && next.style.display !== 'none') {
+          hasVisible = true;
+          break;
+        }
+        next = next.nextElementSibling;
+      }
+      section.style.display = hasVisible ? '' : 'none';
+    });
+  }
+
+  filterBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      filterBtns.forEach(function (b) { b.classList.remove('is-active'); });
+      btn.classList.add('is-active');
+      applyFilter(btn.getAttribute('data-filter'));
+    });
+  });
+})();
+</script>
