@@ -31,7 +31,7 @@ lede: "Peer-reviewed publications and working papers on environmental health, cl
 <div class="br-cv-row">
 <span class="br-cv-year">ENERGY<br>TRANSITIONS</span>
 <div>
-<span class="br-cv-title">Household energy transitions in the Global South</span>
+<span class="br-cv-title">Energy transitions for climate and health</span>
 <span class="br-cv-detail">Two decades of fieldwork in India, Ecuador, and Ghana on why households do &mdash; and don't &mdash; adopt cleaner cooking fuels: subsidy design, fuel-stacking, and the behavioral and institutional barriers to sustained use. This is also where the climate mitigation and public health cases for energy transitions converge.</span>
 </div>
 </div>
