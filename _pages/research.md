@@ -21,10 +21,10 @@ lede: "Peer-reviewed publications and working papers on environmental health, cl
 </div>
 
 <div class="br-cv-row">
-<span class="br-cv-year">ADAPTATION<br>POLICY</span>
+<span class="br-cv-year">CLIMATE<br>ADAPTATION</span>
 <div>
-<span class="br-cv-title">Institutions, policy, and climate adaptation</span>
-<span class="br-cv-detail">What makes adaptation actually happen? Recent work treats health insurance design as a climate adaptation tool, and a broader research agenda in the Global South asks which programs and policies convert into measurable resilience.</span>
+<span class="br-cv-title">Climate adaptation: institutions and behavior</span>
+<span class="br-cv-detail">What makes adaptation actually happen? Recent work treats health insurance design as a climate adaptation tool, and a broader research agenda in the Global South asks which programs and policies convert into measurable resilience. The same question applies at the individual level &mdash; how people change everyday behavior in response to acute hazards like wildfire smoke, and what that reveals about who can protect themselves and who cannot.</span>
 </div>
 </div>
 
