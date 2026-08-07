@@ -1,7 +1,7 @@
 {% if include.item.categories %}
 <div class="br-cat-chips">
   {% for cat in include.item.categories %}
-    {% assign cat_label = cat | replace: "-", " " %}
+    {% assign cat_label = cat | replace: "-", " " | replace: "methods measurement", "methods & measurement" %}
     <span class="br-cat-chip br-cat-chip--{{ cat }}">{{ cat_label }}</span>
   {% endfor %}
 </div>
