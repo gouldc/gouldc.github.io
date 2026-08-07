@@ -2,10 +2,10 @@
 
 <div class="br-pub-filters" role="group" aria-label="Filter publications by topic">
   <button type="button" class="br-filter-btn is-active" data-filter="all">All</button>
-  <button type="button" class="br-filter-btn" data-filter="causal-inference">Causal Inference</button>
-  <button type="button" class="br-filter-btn" data-filter="climate-adaptation">Climate Adaptation</button>
-  <button type="button" class="br-filter-btn" data-filter="energy-transitions">Energy Transitions</button>
-  <button type="button" class="br-filter-btn" data-filter="environmental-epidemiology">Environmental Epidemiology</button>
+  <button type="button" class="br-filter-btn br-filter-btn--causal-inference" data-filter="causal-inference">Causal Inference</button>
+  <button type="button" class="br-filter-btn br-filter-btn--climate-adaptation" data-filter="climate-adaptation">Climate Adaptation</button>
+  <button type="button" class="br-filter-btn br-filter-btn--energy-transitions" data-filter="energy-transitions">Energy Transitions</button>
+  <button type="button" class="br-filter-btn br-filter-btn--environmental-epidemiology" data-filter="environmental-epidemiology">Environmental Epidemiology</button>
 </div>
 
 {% if pubs.published %}
@@ -18,6 +18,7 @@
       {% if item.abstract %}<span class="br-expand-icon">&#9654;</span>{% endif %}{{ item.title }}{% if item.note %} <span class="br-row-note">({{ item.note }})</span>{% endif %}
     </h3>
     <p class="br-row-subtitle">{{ item.authors }}{% if item.venue %} · <em>{{ item.venue }}</em>{% endif %}</p>
+    {% include pub-cat-chips.html item=item %}
     {% if item.abstract %}<div class="br-abstract">{{ item.abstract }}</div>{% endif %}
   </div>
   <div class="br-tags">
@@ -37,6 +38,7 @@
   <div class="br-pub-content">
     <h3 class="br-row-title">{{ item.title }}</h3>
     <p class="br-row-subtitle">{{ item.authors }}</p>
+    {% include pub-cat-chips.html item=item %}
   </div>
   <div class="br-tags">
     {% for link in item.links -%}
@@ -55,6 +57,7 @@
   <div class="br-pub-content">
     <h3 class="br-row-title">{{ item.title }}{% if item.note %} <span class="br-row-note">({{ item.note }})</span>{% endif %}</h3>
     <p class="br-row-subtitle">{{ item.authors }}{% if item.venue %} · <em>{{ item.venue }}</em>{% endif %}</p>
+    {% include pub-cat-chips.html item=item %}
   </div>
   <div class="br-tags">
     {% for link in item.links -%}

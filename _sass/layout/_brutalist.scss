@@ -6,6 +6,10 @@
   --mute: #777777;
   --yellow: #fff200;
   --red: #d22a2a;
+  --cat-causal-inference: #1f6f78;
+  --cat-climate-adaptation: #c0392b;
+  --cat-energy-transitions: #b7791f;
+  --cat-environmental-epidemiology: #6c4f96;
   --font-sans: "Inter Tight", Helvetica, Arial, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --font-quote: "Newsreader", Georgia, serif;
@@ -779,6 +783,40 @@ a:hover {
   background: var(--ink);
   color: var(--paper);
 }
+
+.br-filter-btn--causal-inference { border-left: 4px solid var(--cat-causal-inference); }
+.br-filter-btn--climate-adaptation { border-left: 4px solid var(--cat-climate-adaptation); }
+.br-filter-btn--energy-transitions { border-left: 4px solid var(--cat-energy-transitions); }
+.br-filter-btn--environmental-epidemiology { border-left: 4px solid var(--cat-environmental-epidemiology); }
+
+.br-filter-btn--causal-inference.is-active { background: var(--cat-causal-inference); border-color: var(--cat-causal-inference); color: #fff; }
+.br-filter-btn--climate-adaptation.is-active { background: var(--cat-climate-adaptation); border-color: var(--cat-climate-adaptation); color: #fff; }
+.br-filter-btn--energy-transitions.is-active { background: var(--cat-energy-transitions); border-color: var(--cat-energy-transitions); color: #fff; }
+.br-filter-btn--environmental-epidemiology.is-active { background: var(--cat-environmental-epidemiology); border-color: var(--cat-environmental-epidemiology); color: #fff; }
+
+.br-cat-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.br-cat-chip {
+  display: inline-block;
+  padding: 3px 9px;
+  color: #fff;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  line-height: 16px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.br-cat-chip--causal-inference { background: var(--cat-causal-inference); }
+.br-cat-chip--climate-adaptation { background: var(--cat-climate-adaptation); }
+.br-cat-chip--energy-transitions { background: var(--cat-energy-transitions); }
+.br-cat-chip--environmental-epidemiology { background: var(--cat-environmental-epidemiology); }
 
 .br-notes-year {
   border-bottom: 2px solid var(--ink);
