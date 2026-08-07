@@ -29,7 +29,7 @@ I grew up in southern Indiana, spending a lot of time exploring in the woods and
 
 ## Fieldwork
 
-Photos from research travel over the years &mdash; India, Ecuador, Peru, Ghana, Honduras, and beyond.
+Photos from research travel over the years in India, Ecuador, Peru, Ghana, Honduras, and beyond.
 
 <div class="br-photo-grid">
 <img src="{{ "/images/fieldwork/field-1.jpg" | relative_url }}" alt="Clean Cooking Forum, New Delhi">
@@ -47,5 +47,6 @@ Photos from research travel over the years &mdash; India, Ecuador, Peru, Ghana, 
 
 - Email: [cagould@health.ucsd.edu](mailto:cagould@health.ucsd.edu) / [gould.cf@gmail.com](mailto:gould.cf@gmail.com)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=MMDZBjgAAAAJ)
-- [Twitter/X](https://twitter.com/gould_cf)
 - Languages: English (native), Spanish (fluent)
+
+#### Website Design credit to [Ben Noble](https://benjaminnoble.org/)
