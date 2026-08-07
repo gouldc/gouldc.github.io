@@ -29,10 +29,10 @@ lede: "Peer-reviewed publications and working papers on environmental health, cl
 </div>
 
 <div class="br-cv-row">
-<span class="br-cv-year">ENERGY &amp;<br>BEHAVIOR</span>
+<span class="br-cv-year">ENERGY<br>TRANSITIONS</span>
 <div>
-<span class="br-cv-title">Behavioral adaptation to a changing environment</span>
-<span class="br-cv-detail">Two decades of fieldwork in India, Ecuador, and Ghana on why households do &mdash; and don't &mdash; adopt cleaner cooking fuels, treating fuel-stacking and technology adoption as a behavioral and institutional problem as much as an engineering one. The same lens extends to how people change everyday behavior in response to acute environmental hazards like wildfire smoke.</span>
+<span class="br-cv-title">Household energy transitions in the Global South</span>
+<span class="br-cv-detail">Two decades of fieldwork in India, Ecuador, and Ghana on why households do &mdash; and don't &mdash; adopt cleaner cooking fuels: subsidy design, fuel-stacking, and the behavioral and institutional barriers to sustained use. This is also where the climate mitigation and public health cases for energy transitions converge.</span>
 </div>
 </div>
 
