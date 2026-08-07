@@ -6,6 +6,7 @@
   <button type="button" class="br-filter-btn br-filter-btn--climate-adaptation" data-filter="climate-adaptation">Climate Adaptation</button>
   <button type="button" class="br-filter-btn br-filter-btn--energy-transitions" data-filter="energy-transitions">Energy Transitions</button>
   <button type="button" class="br-filter-btn br-filter-btn--environmental-epidemiology" data-filter="environmental-epidemiology">Environmental Epidemiology</button>
+  <button type="button" class="br-filter-btn br-filter-btn--methods-measurement" data-filter="methods-measurement">Methods &amp; Measurement</button>
 </div>
 
 {% if pubs.published %}
@@ -33,12 +34,15 @@
 {% if pubs.working_papers %}
 <div class="br-section-label" data-pub-section>§ Working Papers &amp; Submitted</div>
 {% for item in pubs.working_papers -%}
-<article class="br-list-row br-publication-row"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
+<article class="br-list-row br-publication-row{% if item.abstract %} has-abstract{% endif %}"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
   <span class="br-row-meta">{{ item.note | default: "WP" }}</span>
   <div class="br-pub-content">
-    <h3 class="br-row-title">{{ item.title }}</h3>
+    <h3 class="br-row-title{% if item.abstract %} br-expandable{% endif %}"{% if item.abstract %} onclick="this.closest('.br-publication-row').classList.toggle('is-open')"{% endif %}>
+      {% if item.abstract %}<span class="br-expand-icon">&#9654;</span>{% endif %}{{ item.title }}
+    </h3>
     <p class="br-row-subtitle">{{ item.authors }}</p>
     {% include pub-cat-chips.html item=item %}
+    {% if item.abstract %}<div class="br-abstract">{{ item.abstract }}</div>{% endif %}
   </div>
   <div class="br-tags">
     {% for link in item.links -%}
@@ -52,12 +56,15 @@
 {% if pubs.other_publications %}
 <div class="br-section-label" data-pub-section>§ Other Writing</div>
 {% for item in pubs.other_publications -%}
-<article class="br-list-row br-publication-row"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
+<article class="br-list-row br-publication-row{% if item.abstract %} has-abstract{% endif %}"{% if item.categories %} data-categories="{{ item.categories | join: ' ' }}"{% endif %}>
   <span class="br-row-meta">{{ item.year }}</span>
   <div class="br-pub-content">
-    <h3 class="br-row-title">{{ item.title }}{% if item.note %} <span class="br-row-note">({{ item.note }})</span>{% endif %}</h3>
+    <h3 class="br-row-title{% if item.abstract %} br-expandable{% endif %}"{% if item.abstract %} onclick="this.closest('.br-publication-row').classList.toggle('is-open')"{% endif %}>
+      {% if item.abstract %}<span class="br-expand-icon">&#9654;</span>{% endif %}{{ item.title }}{% if item.note %} <span class="br-row-note">({{ item.note }})</span>{% endif %}
+    </h3>
     <p class="br-row-subtitle">{{ item.authors }}{% if item.venue %} · <em>{{ item.venue }}</em>{% endif %}</p>
     {% include pub-cat-chips.html item=item %}
+    {% if item.abstract %}<div class="br-abstract">{{ item.abstract }}</div>{% endif %}
   </div>
   <div class="br-tags">
     {% for link in item.links -%}

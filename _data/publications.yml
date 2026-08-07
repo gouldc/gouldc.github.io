@@ -3,33 +3,37 @@ published:
     authors: "Daouda, M., Gould, C.F."
     year: 2026
     venue: "Current Environmental Health Reports 13, 24"
-    categories: [climate-adaptation]
+    abstract: "Reviews how government environmental justice indices are structurally designed and used in research (2020-2025). They function as governance tools that shape resource allocation, but represent only a partial definition of justice, with procedural and community dimensions weakly captured."
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://doi.org/10.1007/s40572-026-00543-9"
 
-  - title: "Health Insurance as Climate Adaptation: A Framework"
+  - title: "Health Insurance as Climate Adaptation: A Practical Framework"
     authors: "Gould, C.F., Tsou, A-C., Puliady, S., McMenamin, S.B."
     year: 2026
     venue: "Health Affairs 45(5), 471-479"
+    abstract: "Proposes using public triggers like heat alerts and air quality indices to activate temporary insurance flexibilities, such as cooling access, indoor air filtration, and early prescription refills, during hazard windows. Argues this could be one of the most scalable near-term strategies for climate-health adaptation."
     categories: [climate-adaptation]
     links:
       - label: "Link"
         url: "https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2025.01670"
 
-  - title: "Change in Acetylcholinesterase Activity from Childhood to Young Adulthood"
+  - title: "Acetylcholinesterase Activity from Childhood to Young Adulthood"
     authors: "Suarez-Torres, J.R.&dagger;, Gould, C.F.&dagger;, Vasishtha, D., Bradman, A., Suarez-Torres, J., Lopez-Paredes, D., Martinez, D., Moore, R."
     year: 2026
     venue: "Journal of Exposure Science and Environmental Epidemiology"
+    abstract: "Establishes the first age- and sex-specific reference values for a key pesticide-exposure biomarker, acetylcholinesterase, from ages 4 to 26 in an agricultural community in Ecuador. Activity rises through adolescence before plateauing, and nearby flower-farm area is linked to lower levels, suggestive of pesticide drift effects."
     categories: [environmental-epidemiology]
     links:
       - label: "Link"
         url: "https://www.nature.com/articles/s41370-026-00866-7"
 
-  - title: "Priorities and opportunities for clean energy transitions in low- and middle-income countries"
+  - title: "Priorities and opportunities for clean energy transitions to advance health in low-income and middle-income countries"
     authors: "Gould, C.F.&dagger;, Gill-Wiehl, A.&dagger;, Pillarisetti, A., Kwong, L.H., Kammen, D., Clasen, T."
     year: 2026
     venue: "Lancet Global Health 14(4), E640-E652"
+    abstract: "Outlines four priorities for clean energy transitions in low- and middle-income countries: rapidly displacing polluting fuels, aligning transitions with climate goals, and addressing persistent access inequalities. Argues clean energy must fully displace polluting fuels, not just reach households, to deliver health benefits."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -39,6 +43,7 @@ published:
     authors: "Gill-Wiehl, A.&dagger;, Gould, C.F.&dagger;, Jeuland, M., Pillarisetti, A., Pachauri, S., Shirley, R., Troncoso, K., Jack, D.W., Leach, M., Batchelor, S., Kwong, L.H., Kammen, D."
     year: 2026
     venue: "Lancet Global Health 14(4), E598-611"
+    abstract: "Argues that simple access metrics, like whether a household has an electricity connection, overstate real progress by ignoring fuel stacking and dynamic consumption patterns. Targeted subsidies and reliable supply chains, not technical fixes alone, drive genuine clean energy transitions."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -48,15 +53,17 @@ published:
     authors: "Pillarisetti, A., Daouda, M., Gould, C.F., Gill-Wiehl, A., Clasen, T., Kammen, D., Amegah, A.K., Balakrishnan, K."
     year: 2026
     venue: "Lancet Global Health 14(4), E612-E625"
+    abstract: "Reviews the evidence on household air pollution's health burden, consistently in the millions of deaths annually despite methodological differences, and argues most research underestimates the full effect of home energy use by focusing narrowly on cooking."
     categories: [energy-transitions]
     links:
       - label: "Link"
         url: "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(26)00002-1/fulltext"
 
-  - title: "Intensifying risk of mass human heat mortality if historical weather patterns recur"
+  - title: "Increasing risk of mass human heat mortality if historical weather patterns recur"
     authors: "Callahan, C., Trok, J., Wilson, A.J., Gould, C.F., Heft-Neal, S., Diffenbaugh, N.S., Burke, M."
     year: 2026
     venue: "Nature Climate Change 16, 26-32"
+    abstract: "Projects that if the 2003 European heat wave recurred at today's temperatures, it would cause about 17,800 excess deaths across Europe in one week, rising to 32,000 at 3°C of warming — comparable to peak COVID-19 mortality and barely blunted by current adaptation."
     categories: [causal-inference]
     links:
       - label: "Link"
@@ -66,15 +73,17 @@ published:
     authors: "Callahan, C., Trok, J., Wilson, A.J., Gould, C.F., Heft-Neal, S., Burke, M., Diffenbaugh, N.S."
     year: 2025
     venue: "Proceedings of the National Academy of Sciences 122(51), e2503577122"
+    abstract: "Revisiting the 2003 France heat wave, finds standard mortality models underpredict deaths by 55%. After correcting for compounding heat effects, attributes just over 6,000 deaths to climate change specifically, and shows adaptation since 2003 would cut a repeat event's toll by more than 75%."
     categories: [causal-inference, climate-adaptation]
     links:
       - label: "Link"
         url: "https://www.pnas.org/doi/10.1073/pnas.2503577122"
 
-  - title: "Wildfire smoke exposure and mortality burden in the US under future climate change"
+  - title: "Wildfire smoke exposure and mortality burden in the USA under climate change"
     authors: "Qiu, M., Li, J., Gould, C.F., Jing, R., Kelp, M., Childs, M.L., Wen, J., Xie, Y., Lin, M., Kiang, M.V., Heft-Neal, S., Diffenbaugh, N., Burke, M."
     year: 2025
     venue: "Nature 647, 935-943"
+    abstract: "Projects wildfire smoke could cause 71,420 excess US deaths per year by 2050 under high warming, a 73% increase over 2011-2020, with cumulative damages exceeding all other climate-driven harms in the US combined."
     categories: [causal-inference]
     links:
       - label: "Link"
@@ -86,6 +95,7 @@ published:
     authors: "Gould, C.F., Heft-Neal, S., Heaney, A.K., Bendavid, E., Callahan, C., Kiang, M.V., Graff Zivin, J., Burke, M."
     year: 2025
     venue: "Science Advances 11, 31"
+    abstract: "Using California ED visits, hospitalizations, and deaths (2006-2017), shows mortality and morbidity respond to temperature differently. Future warming is projected to increase ED visits even as it decreases mortality, meaning declining death counts can mask rising healthcare burden."
     categories: [causal-inference]
     links:
       - label: "Link"
@@ -95,6 +105,7 @@ published:
     authors: "Gould, C.F.&dagger;, Kornher, K.&dagger;, Meeko Manzano, J., Baines, K., Kayser, G., Tu, X., Suarez-Torres, J., Martinez, D., Suarez-Lopez, J.R."
     year: 2025
     venue: "International Journal of Hygiene and Environmental Health 265, 114526"
+    abstract: "Tracking 381 Ecuadorian adolescents' PFAS and pesticide exposure alongside lung function from 2016 to 2022, finds largely null results: no significant associations between the chemical mixture and lung function changes after correcting for multiple comparisons."
     categories: [environmental-epidemiology]
     links:
       - label: "Link"
@@ -104,7 +115,8 @@ published:
     authors: "Krasovich-Southworth, E., Qiu, M., Gould, C.F., Kawano, A., Wen, J., Heft-Neal, S., Voss, K.K., Lopez, A., Fendorf, S., Burney, J., Burke, M."
     year: 2025
     venue: "Environmental Science & Technology 59, 6"
-    categories: [environmental-epidemiology]
+    abstract: "Combining 15 years of chemical speciation data with wildfire smoke estimates, finds smoke drives increases in 25 of 27 tracked PM2.5 chemical species. Smoke from fires that burned structures carried elevated toxic metals like lead and zinc."
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://pubs.acs.org/doi/full/10.1021/acs.est.4c09011"
@@ -113,7 +125,8 @@ published:
     authors: "Qiu, M., Kelp, M., Heft-Neal, S., Jin, X., Gould, C.F., Tong, D.Q., Burke, M."
     year: 2024
     venue: "Environmental Science & Technology 58, 52"
-    categories: [environmental-epidemiology]
+    abstract: "Comparing chemical transport models against machine learning approaches for estimating wildfire smoke exposure, finds physics-based models overestimate extreme smoke episodes by 3-5x in the western US, while ML estimates track surface measurements more closely, with real consequences for mortality estimates."
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://pubs.acs.org/doi/abs/10.1021/acs.est.4c05922"
@@ -122,6 +135,7 @@ published:
     authors: "Gould, C.F., Bailis, R., Balakrishnan, K., Burke, M., Espinoza, S., Mehta, S., Suarez-Lopez, J., Pillarisetti, A."
     year: 2024
     venue: "Environmental Research Letters 19, 081002"
+    abstract: "Argues that blanket condemnation of fossil fuel subsidies is short-sighted, and that subsidizing gas for cooking, as a transitional fuel away from biomass, can be a legitimate strategy to improve health and cut greenhouse gas emissions."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -131,6 +145,7 @@ published:
     authors: "Daouda, M., Kaali, S., Spring, E., Mujtaba, M., Jack, D.W., Dwommoh Prah, R.K., Colicino, E., Tawiah, T., Gennings, C., Osei, M., Janevic, T., Chillrud, S.N., Agyei, O., Quinn, A., Gould, C.F., Lee, A.G., Asante, K.P."
     year: 2024
     venue: "Environmental Health Perspectives 132, 3"
+    abstract: "In a Ghana cookstove trial, finds children born to mothers randomized to LPG stoves had lower blood pressure at age 4, while higher air pollution exposure late in pregnancy was associated with higher blood pressure."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -140,6 +155,7 @@ published:
     authors: "Gould, C.F.&dagger;, Davila, L.&dagger;, Bejarano, M.L., Burke, M., Jack, D.W., Schlesinger, S., Mora, J., Valarezo, A."
     year: 2024
     venue: "Environmental Health Perspectives 132, 1"
+    abstract: "In a crossover study where the same households used both stove types, gas cooking produced 51% higher personal NO2 exposure than induction cooking, with induction far more likely to meet WHO air quality guidelines."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -149,15 +165,17 @@ published:
     authors: "Gould, C.F., Heft-Neal, S., Prunicki, M., Aguilera-Mendoza, J.A., Burke, M.&dagger;, Nadeau, K.&dagger;"
     year: 2024
     venue: "Annual Review of Medicine 45"
-    categories: [environmental-epidemiology]
+    abstract: "A systematic review and meta-analysis finding consistent evidence that wildfire smoke exposure increases all-cause mortality and respiratory hospitalizations, with less consistent evidence for cardiovascular effects, and identifying nonlinear and lagged exposure-response patterns as a key methodological challenge."
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://www.annualreviews.org/doi/abs/10.1146/annurev-med-052422-020909"
 
-  - title: "Wildfire influence on recent US pollution trends"
+  - title: "The contribution of wildfire to PM2.5 trends in the USA"
     authors: "Burke, M.&dagger;, Childs, M.&dagger;, de la Cuesta, B., Qiu, M., Li, J., Gould, C.F., Heft-Neal, S., Wara, M."
     year: 2023
     venue: "Nature 622, 761-766"
+    abstract: "Finds wildfire smoke has eroded about 25% of the past several decades' progress on US air quality since 2016, equivalent to 4 years of gains, with effects largest in western states."
     categories: [causal-inference]
     links:
       - label: "Link"
@@ -169,6 +187,7 @@ published:
     authors: "Heft-Neal, S., Gould, C.F., Childs, M., Kiang, M., Nadeau, K., Duggan, M., Bendavid, E., Burke, M."
     year: 2023
     venue: "Proceedings of the National Academy of Sciences 120(39), e230240912"
+    abstract: "Using all California ED visits (2006-2017), finds moderate smoke slightly increases total ED visits while extreme smoke days paradoxically decrease them overall, driven by declines in non-urgent care, even as asthma, COPD, and cough visits jump 30-110%: evidence of behavioral avoidance on the worst days."
     categories: [causal-inference]
     links:
       - label: "Link"
@@ -180,6 +199,7 @@ published:
     authors: "Gould, C.F., Bejarano, M.L., De la Cuesta, B., Jack, D.W., Schlesinger, S., Valarezo, A., Burke, M."
     year: 2023
     venue: "Proceedings of the National Academy of Sciences 120(34), e2301061120"
+    abstract: "Studying over 750,000 Ecuadorian households that switched from gas to induction cooking, finds the transition modestly increased electricity use but reduced national greenhouse gas emissions, thanks to Ecuador's hydropower grid, and was associated with declines in hospitalizations nationwide."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -189,6 +209,7 @@ published:
     authors: "Valarezo, A., Davila, L., Bejarano, M.L., Nolivo, I., Molina, E., Schlesinger, S.B., Gould, C.F., Jack, D.W."
     year: 2023
     venue: "Energy for Sustainable Development 74, 349-360"
+    abstract: "Finds Ecuador's decades-old LPG and electricity subsidy systems proved resilient through COVID-19 disruptions, with only minor delivery interruptions, even as many households reported income loss and increased use of biomass as a backup fuel."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -198,6 +219,7 @@ published:
     authors: "Gould, C.F., Bejarano, M.L., Kioumourtzoglou, M.-A., Lee, A.G., Pillarisetti, A., Schlesinger, S., Ter&aacute;n, E., Valarezo, A., Jack, D.W."
     year: 2023
     venue: "Environmental Health Perspectives 131, 3"
+    abstract: "Links Ecuador's rise in clean cooking fuel use, from 59% to 95% of households between 1990 and 2019, to a steep decline in under-5 respiratory mortality, estimating the transition averted roughly 7,300 child deaths, about 20% of the total mortality decline over that period."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -207,6 +229,7 @@ published:
     authors: "Gould, C.F.&dagger;, Pillarisetti, A.&dagger;, Thompson, L., Saluja, S., Nandan, V., Urpelainen, J."
     year: 2023
     venue: "Nature Energy 8, 169-178"
+    abstract: "Repeated phone surveys during COVID-19 found most rural Indian households faced economic hardship and some shifted back toward biomass, but India's 'three free cylinders' relief program was widely known and used, highlighting the value of targeted subsidies for resilience."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -216,6 +239,7 @@ published:
     authors: "Gould, C.F., Ae-Ngibise, K.A., Yang, Q., Owusu-Agyei, S., Burkart, K., Boama-Kaali, E., Kinney, P., Mujtaba, M., Quinn, A., Manu, G., Jack, D.W., Chillrud, S.N., Asante, K.P."
     year: 2022
     venue: "Journal of Exposure Science and Environmental Epidemiology 33, 386-395"
+    abstract: "Using accelerometer data to correct for inconsistent device wearing in a Ghana cookstove trial, finds LPG-arm households had dramatically lower personal air pollution exposure from cooking than biomass or control households, refining exposure estimates that don't fully account for monitor-wearing gaps."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -225,13 +249,14 @@ published:
     authors: "Childs, M., Li, J., Wen, J., Heft-Neal, S., Driscoll, A., Wang, S., Gould, C.F., Qiu, M., Burney, J., Burke, M."
     year: 2022
     venue: "Environmental Science & Technology 56(19), 13607-13621"
-    categories: [environmental-epidemiology]
+    abstract: "Develops a machine learning model producing daily 10km-resolution wildfire smoke estimates across the US (2006-2020), finding the number of people exposed to extreme smoke days (above 100 μg/m³) has risen 27-fold over the past decade, reaching nearly 25 million people in 2020 alone."
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://doi.org/10.1021/acs.est.2c02934"
 
   - title: "Variability in the household use of cooking fuels: the importance of dishes cooked, non-cooking end uses, and seasonality"
-    authors: "Gould, C.F., Jha, S., Patnaik, S., Agrawal, S., Zhang, A.T., Saluja, S., Nandan, V., Mani, S., Urpelainen, J."
+  - title: "Variability in the household use of cooking fuels: the importance of dishes cooked, non-cooking end uses, and seasonality"
     year: 2022
     venue: "World Development 159, 106051"
     categories: [energy-transitions]
@@ -243,6 +268,7 @@ published:
     authors: "Burke, M., Heft-Neal, S., Li, J., Driscoll, A., Baylis, P., Stigler, M., Weill, J., Burney, J., Wen, J., Childs, M., Gould, C.F."
     year: 2022
     venue: "Nature Human Behaviour 6, 1351-1361"
+    abstract: "Using pollution sensors, cell phone mobility, social media, and search data, finds wealthier residents respond to smoke events by searching for health information and staying home more, while lower-income residents show similar information-seeking but less capacity to actually stay home — indoor PM2.5 often remained 3-4x above health guidelines regardless."
     categories: [causal-inference, climate-adaptation]
     links:
       - label: "Link"
@@ -252,6 +278,7 @@ published:
     authors: "Zhang, A.T., Patnaik, S., Jha, S., Agrawal, S., Gould, C.F., Urpelainen, J."
     year: 2022
     venue: "Nature Energy 7, 698-707"
+    abstract: "Surveying 4,624 respondents across six Indian states, finds women in less gender-equal households are less aware of energy services and use less electricity than their spouses, suggesting a 'one-size-fits-all' approach to energy access misses important intra-household gaps."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -261,6 +288,7 @@ published:
     authors: "Kaali, S., Jack, D.W., Dommoh Prah, R.K., Chillrud, S.N., Mujtaba, M.N., Kinney, P.L., Tawiah, T., Yang, Q., Oppong, F.B., Gould, C.F., et al."
     year: 2022
     venue: "Pediatric Pulmonology 57(9), 2136-2146"
+    abstract: "In a Ghana birth cohort, children with poorer growth trajectories through age 4 had higher airway resistance, linking early-life growth faltering to impaired lung function with implications for later respiratory health."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -270,6 +298,7 @@ published:
     authors: "Weaver, A.K., Head, J.R., Gould, C.F., Carlton, E.J., Remais, J.V."
     year: 2022
     venue: "Annual Review of Public Health 43, 271-291"
+    abstract: "Reviews evidence linking air pollution, chemical exposures, climate, and the built environment to COVID-19 susceptibility and severity, identifying four candidate mechanisms: exacerbating comorbidities, impairing immune function, aiding viral survival and transport, and shaping exposure-relevant behavior."
     categories: [environmental-epidemiology]
     links:
       - label: "Link"
@@ -279,6 +308,7 @@ published:
     authors: "Boamah-Kaali, E., Jack, D.W., Ae-Ngibise, K.A., Quinn, A., Kaali, S., Dubowski, K., Oppong, F., Wylie, B., Mujtaba, M., Gould, C.F., et al."
     year: 2021
     venue: "Environmental Health Perspectives 129(11), 117009"
+    abstract: "Finds prenatal air pollution exposure increased risk of stunted growth trajectories in infants, while postnatal exposure was linked to smaller head circumference and arm circumference. Infants in the LPG stove arm showed some improvement in these measures."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -288,6 +318,7 @@ published:
     authors: "Jack, D.W., Ae-Ngibise, K., Gould, C.F., et al."
     year: 2021
     venue: "BMJ Global Health 6(8), e005599"
+    abstract: "A large randomized trial of 1,414 pregnant women found neither LPG nor improved biomass cookstoves improved birth weight or reduced severe infant pneumonia — likely because air pollution exposure in the intervention arms remained above WHO targets."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -297,6 +328,7 @@ published:
     authors: "Quinn, A.K., Adjei, I.A., Ae-Ngibise, K.A., Agyei, O., Boamah, E., Burkhart, K., Carri&oacute;n, D., Chillrud, S.N., Gould, C.F., et al."
     year: 2021
     venue: "Environment International 155, 106659"
+    abstract: "Finds each unit increase in prenatal carbon monoxide exposure reduced birth weight by about 53g and shortened gestational age, but only among pregnancies without placental malaria, suggesting malaria may mask or override the air pollution effect."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -306,6 +338,7 @@ published:
     authors: "Khanwilkar, S., Gould, C.F., Defries, R., Habib, B., Urpelainen, J."
     year: 2021
     venue: "Energy Research & Social Science 75, 102012"
+    abstract: "Combining household surveys with satellite forest-cover data across India, finds LPG adoption is lowest among marginalized social groups. Recent adopters, largely through India's PMUY program, are poorer and more forest-proximate than earlier adopters, yet 90% still use firewood too."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -315,6 +348,7 @@ published:
     authors: "Chillrud, S.N., Ae-Ngibise, K.A., Gould, C.F.*, Owusu-Agyei, S., Mujtaba, M., Manu, M., Burkart, K., Kinney, P., Quinn, A., Jack, D.W., Asante, K.P."
     year: 2021
     venue: "Journal of Exposure Science and Environmental Epidemiology 35, 683-698"
+    abstract: "In a randomized trial of 1,414 Ghanaian households, LPG stoves cut personal carbon monoxide exposure by 47% and PM2.5 by 32% compared to open-fire cooking, while a biomass-stove alternative showed no meaningful improvement. Even LPG exposures remained above health targets."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -324,6 +358,7 @@ published:
     authors: "Carri&oacute;n, D., Prah, R., Gould, C.F., Mujtaba, M., Pillarisetti, A., Agyei, O., Chillrud, S.N., Tawiah, T., Jack, D.W., Asante, K.P."
     year: 2020
     venue: "Environmental Research Communications 2(9), 095003"
+    abstract: "Introduces a framework for studying 'clean fuel discontinuance' — households that adopt then abandon a cookstove. Finds LPG users had 86% weekly adherence versus 69% for biomass stoves, with nearby tree cover, a proxy for free firewood access, the strongest predictor of LPG discontinuation."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -333,6 +368,7 @@ published:
     authors: "Gould, C.F.&dagger;, Hou, X.&dagger;, Sharma, A., Richmond, J., Urpelainen, J."
     year: 2020
     venue: "Environmental Research Communications 2(8), 085004"
+    abstract: "Using a panel of over 8,500 rural Indian households, finds the same factors driving initial LPG adoption also predict sustained use. However, beneficiaries of India's free-connection program (PMUY) consume 27kg less LPG per year than paying customers, even controlling for income."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -342,6 +378,7 @@ published:
     authors: "Gould, C.F., Molina Rueda, E., Schlesinger, S., Bejarano, M.L., Valarezo, A., Jack, D.W."
     year: 2020
     venue: "Journal of Exposure Science and Environmental Epidemiology 30, 707-720"
+    abstract: "Despite near-universal LPG stove ownership after decades of subsidies, a quarter of Ecuadorian households still burn firewood as a secondary fuel, and firewood use was associated with 101 μg/m³ higher short-term PM2.5 exposure than LPG or induction cooking."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -351,6 +388,7 @@ published:
     authors: "Mani, S., Jain, A., Tripathi, S., Gould, C.F."
     year: 2020
     venue: "Nature Energy 5, 450-457"
+    abstract: "Finds beneficiaries of India's free-LPG-connection program (PMUY) are significantly less likely to use LPG as their primary fuel than paying customers, regardless of income. Sustained use instead tracks village-level LPG penetration and ease of access to free biomass."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -360,10 +398,11 @@ published:
       - label: "Policy Brief"
         url: "https://www.nature.com/articles/s41560-020-0635-4"
 
-  - title: "Household fuel mixes in peri-urban and rural Ecuador: Explaining the context of LPG, patterns of continued firewood use, and the limitations of induction cooking"
+  - title: "Household fuel mixes in peri-urban and rural Ecuador: Explaining the context of LPG, patterns of continued firewood use, and the challenges of induction cooking"
     authors: "Gould, C.F., Schlesinger, S., Molina Rueda, E., Bejarano, M.L., Valarezo, A., Jack, D.W."
     year: 2020
     venue: "Energy Policy 136, 11053"
+    abstract: "Despite most households having used subsidized LPG for over a decade, half of rural and a fifth of peri-urban households still burn firewood for specific needs like water heating, while a government induction stove program saw low uptake due to installation failures and cost fears."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -373,6 +412,7 @@ published:
     authors: "Gould, C.F., Urpelainen, J."
     year: 2020
     venue: "Energy for Sustainable Development 54, 36-50"
+    abstract: "Across 10,000 households in Kerala and Rajasthan, finds education strongly predicts LPG adoption, but not through changing attitudes toward cooking fuel, suggesting education works through some other pathway."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -384,6 +424,7 @@ published:
     authors: "Gould, C.F., Urpelainen, J."
     year: 2019
     venue: "Journal of Development Studies 56(7), 1309-1329"
+    abstract: "Finds households where women participate in decision-making are more likely to adopt LPG than households where a man decides alone, pointing to gender inequality in household decision-making as a barrier to clean cooking transitions."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -391,10 +432,11 @@ published:
       - label: "Replication Archive"
         url: "https://dataverse.harvard.edu/dataverse/Replication_GU_GenderLPGAdoption"
 
-  - title: "LPG as a clean cooking fuel: Adoption, use, and impacts in rural India"
+  - title: "LPG as a clean cooking fuel: Adoption, use, and impact in rural India"
     authors: "Gould, C.F., Urpelainen, J."
     year: 2018
     venue: "Energy Policy 122, 395-408"
+    abstract: "A broad survey of over 8,500 rural Indian households finds fuel cost is the main barrier to LPG adoption, fuel stacking with firewood remains the norm even after adoption, and both users and non-users view LPG very positively — affordability, not attitudes, is the constraint."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -406,6 +448,7 @@ published:
     authors: "Gould, C.F., Chillrud, S.N., Phillips, D., Perzanowski, M.S., Hern&aacute;ndez, D."
     year: 2018
     venue: "PLOS ONE 13(6)"
+    abstract: "A natural-experiment evaluation of NYC's phase-out of dirty heating oil finds outdoor PM2.5 improved with cleaner fuel conversion, but indoor air quality in the same apartments showed no significant improvement."
     categories: [causal-inference]
     links:
       - label: "Link"
@@ -415,6 +458,7 @@ published:
     authors: "Gould, C.F., Schlesinger, S., Ochoa Toasa, A., Thurber, M., Waters, W., Graham, J., Jack, D."
     year: 2018
     venue: "Energy for Sustainable Development 46, 111-122"
+    abstract: "After three decades of LPG subsidies bringing over 90% of Ecuadorian households to primarily cook with LPG, finds three-quarters still use firewood weekly for some needs, and a follow-on induction stove program saw low adoption and satisfaction."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -424,6 +468,7 @@ published:
     authors: "Gould, C.F., Jagoe, K., Moreno, A.I., Verastegui, A., Pilco, V., Garcia, J., Fort, A., Johnson, M."
     year: 2018
     venue: "Energy for Sustainable Development 45, 79-87"
+    abstract: "Surveying Peruvian households with improved cookstoves (average 5 years old), finds most stoves show damage, but this didn't measurably affect performance in kitchen tests. Access to maintenance and repair services was limited but valued when available."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -433,6 +478,7 @@ published:
     authors: "Garland, C., Gould, C.F., Pennise, D."
     year: 2018
     venue: "Indoor Air 28, 640-650"
+    abstract: "In rural and urban Honduran households, the Envirofit HM-5000 stove achieved 75-99% displacement of traditional stoves and cut indoor PM2.5 by 66%, though usage declined somewhat after the initial monitoring period."
     categories: [energy-transitions]
     links:
       - label: "Link"
@@ -442,6 +488,7 @@ published:
     authors: "Gould, C.F., Perzanowski, M.S., Evans, D., Bruzzese, J.-M."
     year: 2018
     venue: "Respiratory Medicine 135, 42-50"
+    abstract: "In a survey of 30,467 NYC high schoolers with probable asthma, finds that exercise-induced wheeze, unlike in younger children, was not independently associated with ED visits or hospitalizations. Symptoms like chest tightness and night waking were the stronger predictors of urgent care."
     categories: [environmental-epidemiology]
     links:
       - label: "Link"
@@ -452,22 +499,23 @@ other_publications:
     authors: "Heft-Neal, S., Gould, C.F."
     year: 2025
     venue: "American Journal of Respiratory and Critical Care Medicine 211(11), 1988-1990"
-    categories: [environmental-epidemiology]
+    abstract: "An editorial on new evidence that wildfire-smoke-origin PM2.5 carries roughly 8x higher risk per microgram for asthma ED visits than non-smoke PM2.5 — arguing that where particulate matter comes from matters as much as how much of it there is."
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://doi.org/10.1164/rccm.202508-2037ED"
 
   - title: "Quasi-experimental methods in air pollution epidemiology"
-    authors: "Gould, C.F."
+  - title: "Quasi-experimental methods in air pollution epidemiology"
     year: 2026
     venue: "American Journal of Respiratory and Critical Care Medicine 211"
-    categories: [causal-inference]
+    categories: [methods-measurement]
     links:
       - label: "Link"
         url: "https://academic.oup.com/ajrccm/advance-article-abstract/doi/10.1093/ajrccm/aamag217/8662815"
 
   - title: "Decarbonizing Lifesaving Care: The Case for Greener Economic Organ Transport"
-    authors: "Gould, C.F., Shin, H.D., Schnickel, G.T."
+  - title: "Decarbonizing Lifesaving Care: The Case for Greener Economic Organ Transport"
     year: 2026
     venue: "Transplantation"
     note: "Provisionally accepted"
@@ -477,6 +525,7 @@ working_papers:
   - title: "Understanding and addressing temperature impacts on mortality"
     authors: "Burke, M., Wilson, A., Avirmed, K., Wallstein, J., Martins, M., Behrer, P., Callahan, C., Childs, M., Choi, M., French, K., Gould, C.F., Heft-Neal, S., Jing, R., Qiu, M., Rennels, L., Krasovich Southworth, E."
     note: "In Revisions"
+    abstract: "A large multi-author synthesis across 30 countries finding ambient temperature accounts for 5-12% of all deaths, that cold kills more than heat everywhere studied, that vulnerability to heat versus cold shifts with age, and that most proposed policy interventions lack empirical support or don't target the exposures driving the greatest harm."
     categories: [causal-inference, climate-adaptation]
     links:
       - label: "Preprint"
