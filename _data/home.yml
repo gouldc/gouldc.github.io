@@ -13,4 +13,4 @@ directory:
     description: "Background, interests, and contact information."
   - title: "CV"
     url: "/vita/"
-    description: "Full academic CV."
+    description: "Academic background and career highlights."
