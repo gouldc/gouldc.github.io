@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 permalink: /vita/
 author_profile: true
+cta_url: "/files/gouldcv.pdf"
+cta_label: "Download PDF"
 ---
 
 <div class="br-cv-section">
