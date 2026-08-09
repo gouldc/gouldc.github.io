@@ -19,10 +19,6 @@ I joined the faculty of UCSD in Summer 2023, and since then have focused on exam
 
 A fuller description of current research interests is on the [Research](/research/) page.
 
-## Mentorship &amp; Collaboration
-
-I've mentored PhD, master's, and undergraduate researchers at Columbia, Stanford, and UC San Diego &mdash; several are now faculty or researchers in their own right, including Misbath Daouda (now Assistant Professor at UC Berkeley) and Jenni Shearston (now faculty at CU Boulder). Much of my research is collaborative and interdisciplinary by design, with co-authors spanning climate science, economics, and clinical medicine, including long-running collaborations with Marshall Burke's group at Stanford and Darby Jack's group at Columbia.
-
 ## Personal
 
 I grew up in southern Indiana, spending a lot of time exploring in the woods and playing baseball and soccer. Now, I am an avid disc golf player and a fan of games and puzzles in general. I have two cats who comprise the majority of my photo roll. I am passionate about data visualization. In southern California, I am enjoying the beautiful sunshine and trying to get into biking.
